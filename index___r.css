@@ -8,15 +8,15 @@
 	--web-view-ids: index___r;
 }
 * {
-	margin: 0;
-	padding: 0;
+	max-width: 1200px;
+	margin: auto;
 	box-sizing: border-box;
 	border: none;
 }
 .index___r_Class {
 	position: absolute;
 	background: #E5E5E5;
-	width: 1920px;
+	width: 1200px;
 	height: 1080px;
 	background-color: rgba(255,255,255,1);
 	overflow: hidden;
@@ -39,7 +39,7 @@
 	position: absolute;
 	width: 545px;
 	height: 802px;
-	left: 688px;
+	left: 327.738px;
 	top: 352px;
 	overflow: visible;
 }
@@ -63,7 +63,7 @@
 	position: absolute;
 	width: 1170px;
 	height: 120px;
-	left: 375px;
+	left: 15px;
 	top: 960px;
 	overflow: visible;
 }
@@ -127,7 +127,7 @@
 	position: absolute;
 	width: 1170px;
 	height: 391px;
-	left: 375px;
+	left: 15px;
 	top: 0px;
 	overflow: visible;
 }

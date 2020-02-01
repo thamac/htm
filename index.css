@@ -9,7 +9,7 @@
 	--web-view-ids: index;
 }
 * {
-	max-width: 1920px;
+	max-width: 1200px;
 	margin: auto;
 	box-sizing: border-box;
 	border: none;
@@ -17,14 +17,14 @@
 .index_Class {
 	position: absolute;
 	background: #E5E5E5;
-	width: 1920px;
+	width: 1200px;
 	height: 1642px;
 	background-color: rgba(255,255,255,1);
 	overflow: hidden;
 	--web-view-name: index;
 	--web-view-id: index;
-	--web-enable-scale-up: false;
-	--web-scale-on-resize: false;
+	--web-enable-scale-up: true;
+	--web-scale-on-resize: true;
 	--web-enable-deep-linking: true;
 }
 @keyframes fadein {
@@ -41,7 +41,7 @@
 	position: absolute;
 	width: 1170px;
 	height: 120px;
-	left: 375px;
+	left: 15px;
 	top: 1522px;
 	overflow: visible;
 }
@@ -105,7 +105,7 @@
 	position: absolute;
 	width: 560px;
 	height: 1125px;
-	left: 680px;
+	left: 320px;
 	top: 352px;
 	overflow: visible;
 }
@@ -140,7 +140,7 @@
 	position: absolute;
 	width: 1170px;
 	height: 307px;
-	left: 375px;
+	left: 15px;
 	top: 0px;
 	overflow: visible;
 }
