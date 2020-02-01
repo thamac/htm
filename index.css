@@ -9,8 +9,8 @@
 	--web-view-ids: index;
 }
 * {
-	margin: 0;
-	padding: 0;
+	max-width: 1920px;
+	margin: auto;
 	box-sizing: border-box;
 	border: none;
 }
@@ -23,8 +23,8 @@
 	overflow: hidden;
 	--web-view-name: index;
 	--web-view-id: index;
-	--web-enable-scale-up: true;
-	--web-scale-on-resize: true;
+	--web-enable-scale-up: false;
+	--web-scale-on-resize: false;
 	--web-enable-deep-linking: true;
 }
 @keyframes fadein {
