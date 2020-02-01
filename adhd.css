@@ -1,13 +1,13 @@
 .mediaViewInfo {
-	--web-view-name: adhd - r;
-	--web-view-id: adhd___r;
+	--web-view-name: adhd;
+	--web-view-id: adhd;
 	--web-scale-on-resize: true;
 	--web-center-horizontally: true;
 	--web-navigate-on-keypress: true;
 	--web-enable-deep-linking: true;
 }
 :root {
-	--web-view-ids: adhd___r;
+	--web-view-ids: adhd;
 }
 * {
 	margin: 0;
@@ -15,7 +15,7 @@
 	box-sizing: border-box;
 	border: none;
 }
-.adhd___r_Class {
+.adhd_Class {
 	position: absolute;
 	transform: translateX(-50%);
 	left: 50%;
@@ -24,8 +24,8 @@
 	height: 2444px;
 	background-color: rgba(255,255,255,1);
 	overflow: hidden;
-	--web-view-name: adhd - r;
-	--web-view-id: adhd___r;
+	--web-view-name: adhd;
+	--web-view-id: adhd;
 	--web-scale-on-resize: true;
 	--web-center-horizontally: true;
 	--web-navigate-on-keypress: true;
@@ -490,7 +490,7 @@
 	top: 1151px;
 	overflow: visible;
 }
-.Rectangle_57_bh {
+.Rectangle_57_b {
 	filter: drop-shadow(2px 4px 8px rgba(52, 130, 199, 1));
 	position: absolute;
 	overflow: visible;
@@ -499,7 +499,7 @@
 	left: 0px;
 	top: 0px;
 }
-.Rectangle_58_bi {
+.Rectangle_58_caa {
 	position: absolute;
 	overflow: visible;
 	width: 594px;
@@ -571,7 +571,7 @@
 	font-size: 12px;
 	color: rgba(0,0,0,1);
 }
-.Line_22_bn {
+.Line_22_caf {
 	overflow: visible;
 	position: absolute;
 	width: 1px;
@@ -656,12 +656,12 @@
 .Header_Class {
 	position: absolute;
 	width: 1200px;
-	height: 391px;
+	height: 307px;
 	left: 0px;
 	top: 0px;
 	overflow: visible;
 }
-.Rectangle_75 {
+.Rectangle_73 {
 	position: absolute;
 	overflow: visible;
 	width: 1200px;
@@ -677,7 +677,7 @@
 	top: 0px;
 	overflow: visible;
 }
-.Rectangle_16_bx {
+.Rectangle_16_cap {
 	position: absolute;
 	overflow: visible;
 	width: 1170px;
@@ -685,7 +685,7 @@
 	left: 0px;
 	top: 0px;
 }
-.Rectangle_15_bz {
+.Rectangle_15_car {
 	position: absolute;
 	overflow: visible;
 	width: 1170px;
@@ -696,114 +696,10 @@
 .knoppen_Class {
 	position: absolute;
 	width: 1170px;
-	height: 124px;
+	height: 40px;
 	left: 15px;
 	top: 267px;
 	overflow: visible;
-}
-.Group_9_Class {
-	position: absolute;
-	width: 125px;
-	height: 90px;
-	left: 678px;
-	top: 34px;
-	overflow: visible;
-}
-.Rectangle_56 {
-	filter: drop-shadow(3px 6px 6px rgba(0, 0, 0, 0.161));
-	position: absolute;
-	overflow: visible;
-	width: 143px;
-	height: 108px;
-	left: 0px;
-	top: 0px;
-}
-.Andere_middelen_Class {
-	position: absolute;
-	left: 10px;
-	top: 67px;
-	overflow: visible;
-	width: 106px;
-	white-space: nowrap;
-	--web-animation: fadein 0.3s ease-out;
-	--web-action-type: page;
-	--web-action-target: andere_middelen.html;
-	cursor: pointer;
-	line-height: 24px;
-	margin-top: -5.5px;
-	text-align: left;
-	font-family: Open Sans;
-	font-style: normal;
-	font-weight: normal;
-	font-size: 13px;
-	color: rgba(0,0,0,1);
-}
-.Line_21 {
-	overflow: visible;
-	position: absolute;
-	width: 110px;
-	height: 1px;
-	left: 7.5px;
-	top: 62px;
-	transform: matrix(1,0,0,1,0,0);
-}
-.Bijwerkingen_Class {
-	position: absolute;
-	left: 10px;
-	top: 39px;
-	overflow: visible;
-	width: 79px;
-	white-space: nowrap;
-	--web-animation: fadein 0.3s ease-out;
-	--web-action-type: page;
-	--web-action-target: bijwerkingen.html;
-	cursor: pointer;
-	line-height: 24px;
-	margin-top: -5.5px;
-	text-align: left;
-	font-family: Open Sans;
-	font-style: normal;
-	font-weight: normal;
-	font-size: 13px;
-	color: rgba(0,0,0,1);
-}
-.Line_17 {
-	overflow: visible;
-	position: absolute;
-	width: 110px;
-	height: 1px;
-	left: 7.5px;
-	top: 34px;
-	transform: matrix(1,0,0,1,0,0);
-}
-.Geen_ADHD_Class {
-	position: absolute;
-	left: 10px;
-	top: 13px;
-	overflow: visible;
-	width: 73px;
-	white-space: nowrap;
-	--web-animation: fadein 0.3s ease-out;
-	--web-action-type: page;
-	--web-action-target: geen_adhd.html;
-	cursor: pointer;
-	line-height: 24px;
-	margin-top: -5.5px;
-	text-align: left;
-	font-family: Open Sans;
-	font-style: normal;
-	font-weight: normal;
-	font-size: 13px;
-	color: rgba(0,0,0,1);
-}
-.Line_20 {
-	overflow: visible;
-	position: absolute;
-	width: 110px;
-	height: 1px;
-	left: 7.5px;
-	top: 8px;
-	transform: matrix(1,0,0,1,0,0);
 }
 .Rectangle_20 {
 	position: absolute;
@@ -833,7 +729,7 @@
 	--web-action-target: adhd___t.html;
 	cursor: pointer;
 }
-.TIPS_bc_Class {
+.TIPS_caw_Class {
 	position: absolute;
 	left: 0px;
 	top: 0px;
@@ -856,6 +752,10 @@
 	left: 688px;
 	top: 10px;
 	overflow: visible;
+	--web-animation: fadein 0.3s ease-out;
+	--web-action-type: page;
+	--web-action-target: adhd___r.html;
+	cursor: pointer;
 }
 .RISICO_S_Class {
 	position: absolute;
@@ -885,7 +785,7 @@
 	--web-action-target: verslaafd.html;
 	cursor: pointer;
 }
-.VERSLAAFD_bg_Class {
+.VERSLAAFD_ca_Class {
 	position: absolute;
 	left: 0px;
 	top: 0px;
@@ -921,7 +821,7 @@
 	left: 0px;
 	top: 25px;
 }
-.METHYLFENIDAAT_bj_Class {
+.METHYLFENIDAAT_ca_Class {
 	position: absolute;
 	left: 0px;
 	top: 0px;
@@ -949,7 +849,7 @@
 	--web-action-target: index.html;
 	cursor: pointer;
 }
-.HOME_bl_Class {
+.HOME_ca_Class {
 	position: absolute;
 	left: 0px;
 	top: 0px;

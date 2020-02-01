@@ -2,6 +2,8 @@
 	--web-view-name: het project;
 	--web-view-id: het_project;
 	--web-scale-on-resize: true;
+	--web-center-horizontally: true;
+	--web-navigate-on-keypress: true;
 	--web-enable-deep-linking: true;
 }
 :root {
@@ -13,16 +15,20 @@
 	box-sizing: border-box;
 	border: none;
 }
-#het_project {
+.het_project_Class {
 	position: absolute;
+	transform: translateX(-50%);
+	left: 50%;
 	background: #E5E5E5;
-	width: 1920px;
+	width: 1200px;
 	height: 1650px;
 	background-color: rgba(255,255,255,1);
 	overflow: hidden;
 	--web-view-name: het project;
 	--web-view-id: het_project;
 	--web-scale-on-resize: true;
+	--web-center-horizontally: true;
+	--web-navigate-on-keypress: true;
 	--web-enable-deep-linking: true;
 }
 @keyframes fadein {
@@ -35,11 +41,11 @@
 	}
 
 }
-#Footer {
+.Footer_Class {
 	position: absolute;
 	width: 1170px;
 	height: 120px;
-	left: 375px;
+	left: 15px;
 	top: 1530px;
 	overflow: visible;
 }
@@ -59,7 +65,7 @@
 	left: 0px;
 	top: 0px;
 }
-#het_project_gv {
+.het_project_g_Class {
 	position: absolute;
 	left: 715px;
 	top: 48px;
@@ -75,7 +81,7 @@
 	font-size: 20px;
 	color: rgba(44,111,170,1);
 }
-#media {
+.media_Class {
 	position: absolute;
 	left: 358px;
 	top: 48px;
@@ -95,74 +101,23 @@
 	font-size: 20px;
 	color: rgba(44,111,170,1);
 }
-#Body {
+.fotos_Class {
 	position: absolute;
-	width: 560px;
-	height: 1133px;
-	left: 681px;
-	top: 352px;
-	overflow: visible;
-}
-#video {
-	box-sizing: border-box;
-	margin: 0;
-	padding: 0;
-	position: absolute;
-	width: 560px;
-	height: 315px;
-	left: 0px;
-	top: 818px;
-	overflow: visible;
-}
-#Op_de_Hogeschool_van_Amsterdam {
-	position: absolute;
-	left: 18px;
-	top: 35px;
-	overflow: visible;
-	width: 524px;
-	white-space: nowrap;
-	line-height: 27px;
-	margin-top: -5.5px;
-	text-align: left;
-	font-family: Raleway;
-	font-style: normal;
-	font-weight: normal;
-	font-size: 16px;
-	color: rgba(0,0,0,1);
-}
-#Het_project_g {
-	position: absolute;
-	left: 18px;
-	top: 0px;
-	overflow: visible;
-	width: 103px;
-	white-space: nowrap;
-	line-height: 27px;
-	margin-top: -4px;
-	text-align: left;
-	font-family: Open Sans;
-	font-style: normal;
-	font-weight: bold;
-	font-size: 19px;
-	color: rgba(0,0,0,1);
-}
-#fotos {
-	position: absolute;
-	width: 1289px;
+	width: 1100px;
 	height: 542px;
-	left: 329px;
+	left: 50px;
 	top: 352px;
 	overflow: visible;
 }
-#Dennis {
+.Dennis_Class {
 	position: absolute;
 	width: 262px;
 	height: 217px;
-	left: 1027px;
+	left: 838px;
 	top: 288px;
 	overflow: visible;
 }
-#Dennis_Meijer_Student_HBO_ict_ {
+.Dennis_Meijer_Student_HBO_ict__Class {
 	position: absolute;
 	left: 0px;
 	top: 171px;
@@ -178,7 +133,7 @@
 	font-size: 16px;
 	color: rgba(0,0,0,1);
 }
-#Image_5 {
+.Image_5_Class {
 	position: absolute;
 	width: 120px;
 	height: 160.615px;
@@ -186,15 +141,15 @@
 	top: 0px;
 	overflow: visible;
 }
-#Tessy {
+.Tessy_Class {
 	position: absolute;
 	width: 214px;
 	height: 257px;
-	left: 1049px;
+	left: 860px;
 	top: 0px;
 	overflow: visible;
 }
-#Tessy_de_Greef_HBO_verpleegkun {
+.Tessy_de_Greef_HBO_verpleegkun_Class {
 	position: absolute;
 	left: 0px;
 	top: 211px;
@@ -210,7 +165,7 @@
 	font-size: 16px;
 	color: rgba(0,0,0,1);
 }
-#Image_6 {
+.Image_6_Class {
 	position: absolute;
 	width: 120px;
 	height: 200.769px;
@@ -218,7 +173,7 @@
 	top: 0px;
 	overflow: visible;
 }
-#Melissa {
+.Melissa_Class {
 	position: absolute;
 	width: 214px;
 	height: 254px;
@@ -226,7 +181,7 @@
 	top: 288px;
 	overflow: visible;
 }
-#Melissa_Storck_HBO_verpleegkun {
+.Melissa_Storck_HBO_verpleegkun_Class {
 	position: absolute;
 	left: 0px;
 	top: 208px;
@@ -242,7 +197,7 @@
 	font-size: 16px;
 	color: rgba(0,0,0,1);
 }
-#Image_4 {
+.Image_4_Class {
 	position: absolute;
 	width: 120px;
 	height: 197.838px;
@@ -250,7 +205,7 @@
 	top: 0px;
 	overflow: visible;
 }
-#Lotte {
+.Lotte_Class {
 	position: absolute;
 	width: 214px;
 	height: 238px;
@@ -258,7 +213,7 @@
 	top: 0px;
 	overflow: visible;
 }
-#Lotte_Albada_Jelgersma_HBO_ver {
+.Lotte_Albada_Jelgersma_HBO_ver_Class {
 	position: absolute;
 	left: 0px;
 	top: 192px;
@@ -274,7 +229,7 @@
 	font-size: 16px;
 	color: rgba(0,0,0,1);
 }
-#Image_7 {
+.Image_7_Class {
 	position: absolute;
 	width: 120px;
 	height: 181.559px;
@@ -282,23 +237,82 @@
 	top: 0px;
 	overflow: visible;
 }
-#Header {
+.Body_Class {
 	position: absolute;
-	width: 1170px;
-	height: 307px;
-	left: 375px;
-	top: 0px;
+	width: 560px;
+	height: 1133px;
+	left: 320px;
+	top: 352px;
 	overflow: visible;
 }
-#achtergrond {
+.video_Class {
+	box-sizing: border-box;
+	margin: 0;
+	padding: 0;
 	position: absolute;
-	width: 1170px;
-	height: 63px;
+	width: 560px;
+	height: 315px;
+	left: 0px;
+	top: 818px;
+	overflow: visible;
+}
+.Op_de_Hogeschool_van_Amsterdam_Class {
+	position: absolute;
+	left: 18px;
+	top: 35px;
+	overflow: visible;
+	width: 524px;
+	white-space: nowrap;
+	line-height: 27px;
+	margin-top: -5.5px;
+	text-align: left;
+	font-family: Raleway;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 16px;
+	color: rgba(0,0,0,1);
+}
+.Het_project_hj_Class {
+	position: absolute;
+	left: 18px;
+	top: 0px;
+	overflow: visible;
+	width: 103px;
+	white-space: nowrap;
+	line-height: 27px;
+	margin-top: -4px;
+	text-align: left;
+	font-family: Open Sans;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 19px;
+	color: rgba(0,0,0,1);
+}
+.Header_Class {
+	position: absolute;
+	width: 1200px;
+	height: 307px;
 	left: 0px;
 	top: 0px;
 	overflow: visible;
 }
-.Rectangle_16_hh {
+.Rectangle_117 {
+	position: absolute;
+	overflow: visible;
+	width: 1200px;
+	height: 38px;
+	left: 0px;
+	top: 59px;
+}
+.achtergrond_Class {
+	position: absolute;
+	width: 1170px;
+	height: 63px;
+	left: 15px;
+	top: 0px;
+	overflow: visible;
+}
+.Rectangle_16_ho {
 	position: absolute;
 	overflow: visible;
 	width: 1170px;
@@ -306,7 +320,7 @@
 	left: 0px;
 	top: 0px;
 }
-.Rectangle_15_hj {
+.Rectangle_15_hq {
 	position: absolute;
 	overflow: visible;
 	width: 1170px;
@@ -314,11 +328,11 @@
 	left: 0px;
 	top: 0px;
 }
-#knoppen {
+.knoppen_Class {
 	position: absolute;
 	width: 1170px;
 	height: 40px;
-	left: 0px;
+	left: 15px;
 	top: 267px;
 	overflow: visible;
 }
@@ -338,7 +352,7 @@
 	left: 0px;
 	top: 0px;
 }
-#tips {
+.tips_Class {
 	position: absolute;
 	width: 30px;
 	height: 20px;
@@ -350,7 +364,7 @@
 	--web-action-target: het_project___t.html;
 	cursor: pointer;
 }
-#TIPS_ho {
+.TIPS_hv_Class {
 	position: absolute;
 	left: 0px;
 	top: 0px;
@@ -366,7 +380,7 @@
 	font-size: 15px;
 	color: rgba(0,0,0,1);
 }
-#risicos {
+.risicos_Class {
 	position: absolute;
 	width: 58px;
 	height: 20px;
@@ -378,7 +392,7 @@
 	--web-action-target: het_project___r.html;
 	cursor: pointer;
 }
-#RISICO_S {
+.RISICO_S_Class {
 	position: absolute;
 	left: 0px;
 	top: 0px;
@@ -394,7 +408,7 @@
 	font-size: 15px;
 	color: rgba(0,0,0,1);
 }
-#verslaafd {
+.verslaafd_Class {
 	position: absolute;
 	width: 80px;
 	height: 20px;
@@ -406,7 +420,7 @@
 	--web-action-target: verslaafd.html;
 	cursor: pointer;
 }
-#VERSLAAFD_hs {
+.VERSLAAFD_hz_Class {
 	position: absolute;
 	left: 0px;
 	top: 0px;
@@ -422,7 +436,7 @@
 	font-size: 15px;
 	color: rgba(0,0,0,1);
 }
-#methylfenidaat {
+.methylfenidaat_Class {
 	position: absolute;
 	width: 128px;
 	height: 20px;
@@ -434,7 +448,7 @@
 	--web-action-target: het_project___m.html;
 	cursor: pointer;
 }
-#METHYLFENIDAAT_hu {
+.METHYLFENIDAAT_h_Class {
 	position: absolute;
 	left: 0px;
 	top: 0px;
@@ -450,7 +464,7 @@
 	font-size: 15px;
 	color: rgba(0,0,0,1);
 }
-#home {
+.home_Class {
 	position: absolute;
 	width: 45px;
 	height: 20px;
@@ -462,7 +476,7 @@
 	--web-action-target: index.html;
 	cursor: pointer;
 }
-#HOME_hw {
+.HOME_h_Class {
 	position: absolute;
 	left: 0px;
 	top: 0px;
@@ -478,11 +492,11 @@
 	font-size: 15px;
 	color: rgba(0,0,0,1);
 }
-#zoekbalk {
+.zoekbalk_Class {
 	position: absolute;
 	width: 262px;
 	height: 34px;
-	left: 895px;
+	left: 910px;
 	top: 14px;
 	overflow: visible;
 }
@@ -494,7 +508,7 @@
 	left: 0px;
 	top: 0px;
 }
-#Zoek_op_trefwoord {
+.Zoek_op_trefwoord_Class {
 	position: absolute;
 	left: 8px;
 	top: 9px;
@@ -510,7 +524,7 @@
 	font-size: 14px;
 	color: rgba(0,0,0,1);
 }
-#glassmagnifiermagnifyingsearch {
+.glassmagnifiermagnifyingsearch_Class {
 	opacity: 0.35;
 	position: absolute;
 	width: 30px;
@@ -519,17 +533,17 @@
 	top: 2px;
 	overflow: visible;
 }
-#banner5 {
+.banner5_Class {
 	position: absolute;
 	width: 1170px;
 	height: 175px;
-	left: 0px;
+	left: 15px;
 	top: 92px;
 	overflow: visible;
 }
-#Informatie_over_misbruik_methy {
+.Informatie_over_misbruik_methy_Class {
 	position: absolute;
-	left: 15px;
+	left: 30px;
 	top: 63px;
 	overflow: visible;
 	width: 478px;
@@ -543,9 +557,9 @@
 	font-size: 26px;
 	color: rgba(0,0,0,1);
 }
-#ADHD_MEDICATIE {
+.ADHD_MEDICATIE_Class {
 	position: absolute;
-	left: 15px;
+	left: 30px;
 	top: 11px;
 	overflow: visible;
 	width: 313px;
