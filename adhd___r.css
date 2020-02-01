@@ -1,0 +1,984 @@
+.mediaViewInfo {
+	--web-view-name: adhd - r;
+	--web-view-id: adhd___r;
+	--web-scale-on-resize: true;
+	--web-navigate-on-keypress: true;
+	--web-enable-deep-linking: true;
+}
+:root {
+	--web-view-ids: adhd___r;
+}
+* {
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+	border: none;
+}
+.adhd___r_Class {
+	position: absolute;
+	background: #E5E5E5;
+	width: 1920px;
+	height: 1080px;
+	background-color: rgba(255,255,255,1);
+	overflow: hidden;
+	--web-view-name: adhd - r;
+	--web-view-id: adhd___r;
+	--web-scale-on-resize: true;
+	--web-navigate-on-keypress: true;
+	--web-enable-deep-linking: true;
+}
+@keyframes fadein {
+
+	0% {
+		opacity: 0;
+	}
+	100% {
+		opacity: 1;
+	}
+
+}
+.Body_Class {
+	position: absolute;
+	width: 594px;
+	height: 1909px;
+	left: 663px;
+	top: 352px;
+	overflow: visible;
+}
+.bronvermelding_Class {
+	position: absolute;
+	left: 24.5px;
+	top: 1863px;
+	overflow: visible;
+	width: 496px;
+	white-space: nowrap;
+	line-height: 27px;
+	margin-top: -5.5px;
+	text-align: left;
+	font-family: Raleway;
+	font-style: italic;
+	font-weight: normal;
+	font-size: 16px;
+	color: rgba(0,0,0,1);
+}
+.Group_7_Class {
+	position: absolute;
+	width: 594px;
+	height: 299px;
+	left: 0px;
+	top: 1552px;
+	overflow: visible;
+}
+.Rectangle_57 {
+	filter: drop-shadow(2px 4px 8px rgba(52, 130, 199, 1));
+	position: absolute;
+	overflow: visible;
+	width: 618px;
+	height: 323px;
+	left: 0px;
+	top: 0px;
+}
+.Rectangle_58 {
+	position: absolute;
+	overflow: visible;
+	width: 594px;
+	height: 30px;
+	left: 0px;
+	top: 0px;
+}
+.ADHD__overwegend_hyperactief_i_Class {
+	position: absolute;
+	left: 10.5px;
+	top: 7px;
+	overflow: visible;
+	width: 275px;
+	white-space: nowrap;
+	line-height: 27px;
+	margin-top: -7.5px;
+	text-align: left;
+	font-family: Open Sans;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 12px;
+	color: rgba(255,255,255,1);
+}
+.ADHD__overwegend_onoplettend_b_Class {
+	position: absolute;
+	left: 307.5px;
+	top: 7px;
+	overflow: visible;
+	width: 223px;
+	white-space: nowrap;
+	line-height: 27px;
+	margin-top: -7.5px;
+	text-align: left;
+	font-family: Open Sans;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 12px;
+	color: rgba(255,255,255,1);
+}
+.Onoplettend_Class {
+	position: absolute;
+	left: 5px;
+	top: 35px;
+	overflow: visible;
+	width: 71px;
+	white-space: nowrap;
+	line-height: 19px;
+	margin-top: -3.5px;
+	text-align: left;
+	font-family: Raleway;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 12px;
+	color: rgba(0,0,0,1);
+}
+.Hyperactief_Class {
+	position: absolute;
+	left: 5px;
+	top: 136px;
+	overflow: visible;
+	width: 66px;
+	white-space: nowrap;
+	line-height: 19px;
+	margin-top: -3.5px;
+	text-align: left;
+	font-family: Raleway;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 12px;
+	color: rgba(0,0,0,1);
+}
+.Impulsief_Class {
+	position: absolute;
+	left: 5px;
+	top: 161px;
+	overflow: visible;
+	width: 53px;
+	white-space: nowrap;
+	line-height: 19px;
+	margin-top: -3.5px;
+	text-align: left;
+	font-family: Raleway;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 12px;
+	color: rgba(0,0,0,1);
+}
+.____Kort_spel___3_min________a_Class {
+	position: absolute;
+	left: 80px;
+	top: 35px;
+	overflow: visible;
+	width: 149px;
+	white-space: nowrap;
+	line-height: 19px;
+	margin-top: -3.5px;
+	text-align: left;
+	font-family: Raleway;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 12px;
+	color: rgba(0,0,0,1);
+}
+._____wervelwind__Class {
+	position: absolute;
+	left: 80px;
+	top: 136px;
+	overflow: visible;
+	width: 83px;
+	white-space: nowrap;
+	line-height: 19px;
+	margin-top: -3.5px;
+	text-align: left;
+	font-family: Raleway;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 12px;
+	color: rgba(0,0,0,1);
+}
+.____luistert_niet_____geen_gev_Class {
+	position: absolute;
+	left: 80px;
+	top: 161px;
+	overflow: visible;
+	width: 114px;
+	white-space: nowrap;
+	line-height: 19px;
+	margin-top: -3.5px;
+	text-align: left;
+	font-family: Raleway;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 12px;
+	color: rgba(0,0,0,1);
+}
+.____Korte_activiteiten___10_mi_Class {
+	position: absolute;
+	left: 233px;
+	top: 35px;
+	overflow: visible;
+	width: 212px;
+	white-space: nowrap;
+	line-height: 19px;
+	margin-top: -3.5px;
+	text-align: left;
+	font-family: Raleway;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 12px;
+	color: rgba(0,0,0,1);
+}
+.____onrustig_wanneer_rust_is_v_Class {
+	position: absolute;
+	left: 233px;
+	top: 136px;
+	overflow: visible;
+	width: 186px;
+	white-space: nowrap;
+	line-height: 19px;
+	margin-top: -3.5px;
+	text-align: left;
+	font-family: Raleway;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 12px;
+	color: rgba(0,0,0,1);
+}
+.____niet_op_de_beurt_wachten___Class {
+	position: absolute;
+	left: 233px;
+	top: 161px;
+	overflow: visible;
+	width: 179px;
+	white-space: nowrap;
+	line-height: 19px;
+	margin-top: -3.5px;
+	text-align: left;
+	font-family: Raleway;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 12px;
+	color: rgba(0,0,0,1);
+}
+.____minder_doorzetten_dan_leef_Class {
+	position: absolute;
+	left: 449px;
+	top: 35px;
+	overflow: visible;
+	width: 142px;
+	white-space: nowrap;
+	line-height: 19px;
+	margin-top: -3.5px;
+	text-align: left;
+	font-family: Raleway;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 12px;
+	color: rgba(0,0,0,1);
+}
+.____ongedurig_Class {
+	position: absolute;
+	left: 449px;
+	top: 136px;
+	overflow: visible;
+	width: 72px;
+	white-space: nowrap;
+	line-height: 19px;
+	margin-top: -3.5px;
+	text-align: left;
+	font-family: Raleway;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 12px;
+	color: rgba(0,0,0,1);
+}
+.____zwakke_zelfcontrole_____ro_Class {
+	position: absolute;
+	left: 449px;
+	top: 161px;
+	overflow: visible;
+	width: 125px;
+	white-space: nowrap;
+	line-height: 19px;
+	margin-top: -3.5px;
+	text-align: left;
+	font-family: Raleway;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 12px;
+	color: rgba(0,0,0,1);
+}
+.Line_22 {
+	overflow: visible;
+	position: absolute;
+	width: 1px;
+	height: 298px;
+	left: 77.5px;
+	top: 0.5px;
+	transform: matrix(1,0,0,1,0,0);
+}
+.Line_23 {
+	overflow: visible;
+	position: absolute;
+	width: 1px;
+	height: 298px;
+	left: 231.5px;
+	top: 0.5px;
+	transform: matrix(1,0,0,1,0,0);
+}
+.Line_24 {
+	overflow: visible;
+	position: absolute;
+	width: 1px;
+	height: 298px;
+	left: 446.5px;
+	top: 0.5px;
+	transform: matrix(1,0,0,1,0,0);
+}
+.Line_25 {
+	overflow: visible;
+	position: absolute;
+	width: 593px;
+	height: 1px;
+	left: 0.5px;
+	top: 128.5px;
+	transform: matrix(1,0,0,1,0,0);
+}
+.Line_26 {
+	overflow: visible;
+	position: absolute;
+	width: 593px;
+	height: 1px;
+	left: 0.5px;
+	top: 154.5px;
+	transform: matrix(1,0,0,1,0,0);
+}
+.Voorbeelden_van_typische_ADHD__Class {
+	position: absolute;
+	left: 24.5px;
+	top: 1506px;
+	overflow: visible;
+	width: 537px;
+	white-space: nowrap;
+	line-height: 27px;
+	margin-top: -5.5px;
+	text-align: left;
+	font-family: Raleway;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 16px;
+	color: rgba(0,0,0,1);
+}
+.Group_6_Class {
+	position: absolute;
+	width: 594px;
+	height: 346px;
+	left: 0px;
+	top: 1142px;
+	overflow: visible;
+}
+.Rectangle_57_b {
+	filter: drop-shadow(2px 4px 8px rgba(52, 130, 199, 1));
+	position: absolute;
+	overflow: visible;
+	width: 618px;
+	height: 370px;
+	left: 0px;
+	top: 0px;
+}
+.Rectangle_58_b {
+	position: absolute;
+	overflow: visible;
+	width: 594px;
+	height: 30px;
+	left: 0px;
+	top: 0px;
+}
+.ADHD__overwegend_hyperactief_i_b_Class {
+	position: absolute;
+	left: 10.5px;
+	top: 7px;
+	overflow: visible;
+	width: 275px;
+	white-space: nowrap;
+	line-height: 27px;
+	margin-top: -7.5px;
+	text-align: left;
+	font-family: Open Sans;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 12px;
+	color: rgba(255,255,255,1);
+}
+.ADHD__overwegend_onoplettend_b_ba_Class {
+	position: absolute;
+	left: 307.5px;
+	top: 7px;
+	overflow: visible;
+	width: 223px;
+	white-space: nowrap;
+	line-height: 27px;
+	margin-top: -7.5px;
+	text-align: left;
+	font-family: Open Sans;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 12px;
+	color: rgba(255,255,255,1);
+}
+.____moeilijk_stil_kunnen_blijv_Class {
+	position: absolute;
+	left: 6px;
+	top: 37px;
+	overflow: visible;
+	width: 249px;
+	white-space: nowrap;
+	line-height: 19px;
+	margin-top: -3.5px;
+	text-align: left;
+	font-family: Raleway;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 12px;
+	color: rgba(0,0,0,1);
+}
+.____snel_afgeleid_zijn_____dro_Class {
+	position: absolute;
+	left: 303px;
+	top: 37px;
+	overflow: visible;
+	width: 272px;
+	white-space: nowrap;
+	line-height: 19px;
+	margin-top: -3.5px;
+	text-align: left;
+	font-family: Raleway;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 12px;
+	color: rgba(0,0,0,1);
+}
+.Line_22_bd {
+	overflow: visible;
+	position: absolute;
+	width: 1px;
+	height: 345px;
+	left: 297.5px;
+	top: 0.5px;
+	transform: matrix(1,0,0,1,0,0);
+}
+.ADHD_is_opgenomen_in_de_DSM_5__Class {
+	position: absolute;
+	left: 24.5px;
+	top: 583px;
+	overflow: visible;
+	width: 546px;
+	white-space: nowrap;
+	line-height: 27px;
+	margin-top: -5.5px;
+	text-align: left;
+	font-family: Raleway;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 16px;
+	color: rgba(0,0,0,1);
+}
+.Wat_zijn_de_kenmerken_van_ADHD_Class {
+	position: absolute;
+	left: 24.5px;
+	top: 548px;
+	overflow: visible;
+	width: 318px;
+	white-space: nowrap;
+	line-height: 27px;
+	margin-top: -4px;
+	text-align: left;
+	font-family: Open Sans;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 19px;
+	color: rgba(0,0,0,1);
+}
+.Languit_staat_ADHD_voor_Attent_Class {
+	position: absolute;
+	left: 24.5px;
+	top: 35px;
+	overflow: visible;
+	width: 541px;
+	white-space: nowrap;
+	line-height: 27px;
+	margin-top: -5.5px;
+	text-align: left;
+	font-family: Raleway;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 16px;
+	color: rgba(0,0,0,1);
+}
+.ADHD__wat_is_dat_precies__Class {
+	position: absolute;
+	left: 24.5px;
+	top: 0px;
+	overflow: visible;
+	width: 234px;
+	white-space: nowrap;
+	line-height: 27px;
+	margin-top: -4px;
+	text-align: left;
+	font-family: Open Sans;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 19px;
+	color: rgba(0,0,0,1);
+}
+.Footer_Class {
+	position: absolute;
+	width: 1170px;
+	height: 120px;
+	left: 375px;
+	top: 960px;
+	overflow: visible;
+}
+.Rectangle_25 {
+	position: absolute;
+	overflow: visible;
+	width: 1170px;
+	height: 30px;
+	left: 0px;
+	top: 90px;
+}
+.Rectangle_52 {
+	position: absolute;
+	overflow: visible;
+	width: 1170px;
+	height: 120px;
+	left: 0px;
+	top: 0px;
+}
+.het_project_Class {
+	position: absolute;
+	left: 715px;
+	top: 48px;
+	overflow: visible;
+	width: 131px;
+	white-space: nowrap;
+	--web-animation: fadein 0.3s ease-out;
+	--web-action-type: page;
+	--web-action-target: het_project.html;
+	cursor: pointer;
+	line-height: 27px;
+	margin-top: -3.5px;
+	text-align: center;
+	font-family: Raleway;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 20px;
+	color: rgba(44,111,170,1);
+}
+.media_Class {
+	position: absolute;
+	left: 358px;
+	top: 48px;
+	overflow: visible;
+	width: 63px;
+	white-space: nowrap;
+	--web-animation: fadein 0.3s ease-out;
+	--web-action-type: page;
+	--web-action-target: media.html;
+	cursor: pointer;
+	line-height: 27px;
+	margin-top: -3.5px;
+	text-align: center;
+	font-family: Raleway;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 20px;
+	color: rgba(44,111,170,1);
+}
+.Header_Class {
+	position: absolute;
+	width: 1170px;
+	height: 391px;
+	left: 375px;
+	top: 0px;
+	overflow: visible;
+}
+.achtergrond_Class {
+	position: absolute;
+	width: 1170px;
+	height: 63px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+.Rectangle_16_bq {
+	position: absolute;
+	overflow: visible;
+	width: 1170px;
+	height: 30px;
+	left: 0px;
+	top: 0px;
+}
+.Rectangle_15_bs {
+	position: absolute;
+	overflow: visible;
+	width: 1170px;
+	height: 63px;
+	left: 0px;
+	top: 0px;
+}
+.knoppen_Class {
+	position: absolute;
+	width: 1170px;
+	height: 124px;
+	left: 0px;
+	top: 267px;
+	overflow: visible;
+}
+.Group_9_Class {
+	position: absolute;
+	width: 125px;
+	height: 90px;
+	left: 678px;
+	top: 34px;
+	overflow: visible;
+}
+.Rectangle_56 {
+	filter: drop-shadow(3px 6px 6px rgba(0, 0, 0, 0.161));
+	position: absolute;
+	overflow: visible;
+	width: 143px;
+	height: 108px;
+	left: 0px;
+	top: 0px;
+}
+.Andere_middelen_Class {
+	position: absolute;
+	left: 10px;
+	top: 67px;
+	overflow: visible;
+	width: 106px;
+	white-space: nowrap;
+	--web-animation: fadein 0.3s ease-out;
+	--web-action-type: page;
+	--web-action-target: andere_middelen.html;
+	cursor: pointer;
+	line-height: 24px;
+	margin-top: -5.5px;
+	text-align: left;
+	font-family: Open Sans;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 13px;
+	color: rgba(0,0,0,1);
+}
+.Line_21 {
+	overflow: visible;
+	position: absolute;
+	width: 110px;
+	height: 1px;
+	left: 7.5px;
+	top: 62px;
+	transform: matrix(1,0,0,1,0,0);
+}
+.Bijwerkingen_Class {
+	position: absolute;
+	left: 10px;
+	top: 39px;
+	overflow: visible;
+	width: 79px;
+	white-space: nowrap;
+	--web-animation: fadein 0.3s ease-out;
+	--web-action-type: page;
+	--web-action-target: bijwerkingen.html;
+	cursor: pointer;
+	line-height: 24px;
+	margin-top: -5.5px;
+	text-align: left;
+	font-family: Open Sans;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 13px;
+	color: rgba(0,0,0,1);
+}
+.Line_17 {
+	overflow: visible;
+	position: absolute;
+	width: 110px;
+	height: 1px;
+	left: 7.5px;
+	top: 34px;
+	transform: matrix(1,0,0,1,0,0);
+}
+.Geen_ADHD_Class {
+	position: absolute;
+	left: 10px;
+	top: 13px;
+	overflow: visible;
+	width: 73px;
+	white-space: nowrap;
+	--web-animation: fadein 0.3s ease-out;
+	--web-action-type: page;
+	--web-action-target: geen_adhd.html;
+	cursor: pointer;
+	line-height: 24px;
+	margin-top: -5.5px;
+	text-align: left;
+	font-family: Open Sans;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 13px;
+	color: rgba(0,0,0,1);
+}
+.Line_20 {
+	overflow: visible;
+	position: absolute;
+	width: 110px;
+	height: 1px;
+	left: 7.5px;
+	top: 8px;
+	transform: matrix(1,0,0,1,0,0);
+}
+.Rectangle_20 {
+	position: absolute;
+	overflow: visible;
+	width: 1170px;
+	height: 40px;
+	left: 0px;
+	top: 0px;
+}
+.Rectangle_22 {
+	position: absolute;
+	overflow: visible;
+	width: 1170px;
+	height: 20px;
+	left: 0px;
+	top: 0px;
+}
+.tips_Class {
+	position: absolute;
+	width: 30px;
+	height: 20px;
+	left: 766px;
+	top: 10px;
+	overflow: visible;
+	--web-animation: fadein 0.3s ease-out;
+	--web-action-type: page;
+	--web-action-target: adhd___t.html;
+	cursor: pointer;
+}
+.TIPS_b_Class {
+	position: absolute;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+	width: 31px;
+	white-space: nowrap;
+	line-height: 24px;
+	margin-top: -4.5px;
+	text-align: center;
+	font-family: Open Sans;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 15px;
+	color: rgba(0,0,0,1);
+}
+.risicos_Class {
+	position: absolute;
+	width: 58px;
+	height: 20px;
+	left: 688px;
+	top: 10px;
+	overflow: visible;
+}
+.RISICO_S_Class {
+	position: absolute;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+	width: 59px;
+	white-space: nowrap;
+	line-height: 24px;
+	margin-top: -4.5px;
+	text-align: center;
+	font-family: Open Sans;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 15px;
+	color: rgba(0,0,0,1);
+}
+.verslaafd_Class {
+	position: absolute;
+	width: 80px;
+	height: 20px;
+	left: 588px;
+	top: 10px;
+	overflow: visible;
+	--web-animation: fadein 0.3s ease-out;
+	--web-action-type: page;
+	--web-action-target: verslaafd.html;
+	cursor: pointer;
+}
+.VERSLAAFD_b_Class {
+	position: absolute;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+	width: 81px;
+	white-space: nowrap;
+	line-height: 24px;
+	margin-top: -4.5px;
+	text-align: center;
+	font-family: Open Sans;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 15px;
+	color: rgba(0,0,0,1);
+}
+.methylfenidaat_Class {
+	position: absolute;
+	width: 128px;
+	height: 30px;
+	left: 440px;
+	top: 10px;
+	overflow: visible;
+	--web-animation: fadein 0.3s ease-out;
+	--web-action-type: page;
+	--web-action-target: adhd___m.html;
+	cursor: pointer;
+}
+.Rectangle_24 {
+	position: absolute;
+	overflow: visible;
+	width: 128px;
+	height: 5px;
+	left: 0px;
+	top: 25px;
+}
+.METHYLFENIDAAT_bc_Class {
+	position: absolute;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+	width: 129px;
+	white-space: nowrap;
+	line-height: 24px;
+	margin-top: -4.5px;
+	text-align: center;
+	font-family: Open Sans;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 15px;
+	color: rgba(0,0,0,1);
+}
+.home_Class {
+	position: absolute;
+	width: 45px;
+	height: 20px;
+	left: 375px;
+	top: 10px;
+	overflow: visible;
+	--web-animation: fadein 0.3s ease-out;
+	--web-action-type: page;
+	--web-action-target: index.html;
+	cursor: pointer;
+}
+.HOME_be_Class {
+	position: absolute;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+	width: 46px;
+	white-space: nowrap;
+	line-height: 24px;
+	margin-top: -4.5px;
+	text-align: left;
+	font-family: Open Sans;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 15px;
+	color: rgba(0,0,0,1);
+}
+.zoekbalk_Class {
+	position: absolute;
+	width: 262px;
+	height: 34px;
+	left: 895px;
+	top: 14px;
+	overflow: visible;
+}
+.Rectangle_17 {
+	position: absolute;
+	overflow: visible;
+	width: 262px;
+	height: 34px;
+	left: 0px;
+	top: 0px;
+}
+.Zoek_op_trefwoord_Class {
+	position: absolute;
+	left: 8px;
+	top: 9px;
+	overflow: visible;
+	width: 122px;
+	white-space: nowrap;
+	line-height: 58px;
+	margin-top: -22px;
+	text-align: left;
+	font-family: Open Sans;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 14px;
+	color: rgba(0,0,0,1);
+}
+.glassmagnifiermagnifyingsearch_Class {
+	opacity: 0.35;
+	position: absolute;
+	width: 30px;
+	height: 30px;
+	left: 227px;
+	top: 2px;
+	overflow: visible;
+}
+.banner5_Class {
+	position: absolute;
+	width: 1170px;
+	height: 175px;
+	left: 0px;
+	top: 92px;
+	overflow: visible;
+}
+.Informatie_over_misbruik_methy_Class {
+	position: absolute;
+	left: 15px;
+	top: 63px;
+	overflow: visible;
+	width: 478px;
+	white-space: nowrap;
+	line-height: 58px;
+	margin-top: -16px;
+	text-align: left;
+	font-family: Raleway;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 26px;
+	color: rgba(0,0,0,1);
+}
+.ADHD_MEDICATIE_Class {
+	position: absolute;
+	left: 15px;
+	top: 11px;
+	overflow: visible;
+	width: 313px;
+	white-space: nowrap;
+	line-height: 58px;
+	margin-top: -11px;
+	text-align: left;
+	font-family: SansSerif;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 36px;
+	color: rgba(255,255,255,1);
+}

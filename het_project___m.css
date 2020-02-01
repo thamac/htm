@@ -1,0 +1,679 @@
+.mediaViewInfo {
+	--web-view-name: het project – m;
+	--web-view-id: het_project___m;
+	--web-scale-on-resize: true;
+	--web-enable-deep-linking: true;
+}
+:root {
+	--web-view-ids: het_project___m;
+}
+* {
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+	border: none;
+}
+#het_project___m {
+	position: absolute;
+	background: #E5E5E5;
+	width: 1920px;
+	height: 1080px;
+	background-color: rgba(255,255,255,1);
+	overflow: hidden;
+	--web-view-name: het project – m;
+	--web-view-id: het_project___m;
+	--web-scale-on-resize: true;
+	--web-enable-deep-linking: true;
+}
+@keyframes fadein {
+
+	0% {
+		opacity: 0;
+	}
+	100% {
+		opacity: 1;
+	}
+
+}
+#Body {
+	position: absolute;
+	width: 523px;
+	height: 783px;
+	left: 699px;
+	top: 352px;
+	overflow: visible;
+}
+#Op_de_Hogeschool_van_Amsterdam {
+	position: absolute;
+	left: 0px;
+	top: 35px;
+	overflow: visible;
+	width: 524px;
+	white-space: nowrap;
+	line-height: 27px;
+	margin-top: -5.5px;
+	text-align: left;
+	font-family: Raleway;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 16px;
+	color: rgba(0,0,0,1);
+}
+#Het_project {
+	position: absolute;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+	width: 103px;
+	white-space: nowrap;
+	line-height: 27px;
+	margin-top: -4px;
+	text-align: left;
+	font-family: Open Sans;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 19px;
+	color: rgba(0,0,0,1);
+}
+#Footer {
+	position: absolute;
+	width: 1170px;
+	height: 120px;
+	left: 375px;
+	top: 960px;
+	overflow: visible;
+}
+.Rectangle_53 {
+	position: absolute;
+	overflow: visible;
+	width: 1170px;
+	height: 30px;
+	left: 0px;
+	top: 90px;
+}
+.Rectangle_25 {
+	position: absolute;
+	overflow: visible;
+	width: 1170px;
+	height: 120px;
+	left: 0px;
+	top: 0px;
+}
+#het_project {
+	position: absolute;
+	left: 715px;
+	top: 48px;
+	overflow: visible;
+	width: 131px;
+	white-space: nowrap;
+	line-height: 27px;
+	margin-top: -3.5px;
+	text-align: center;
+	font-family: Raleway;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 20px;
+	color: rgba(44,111,170,1);
+}
+#media {
+	position: absolute;
+	left: 358px;
+	top: 48px;
+	overflow: visible;
+	width: 63px;
+	white-space: nowrap;
+	--web-animation: fadein 0.3s ease-out;
+	--web-action-type: page;
+	--web-action-target: media.html;
+	cursor: pointer;
+	line-height: 27px;
+	margin-top: -3.5px;
+	text-align: center;
+	font-family: Raleway;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 20px;
+	color: rgba(44,111,170,1);
+}
+#fotos {
+	position: absolute;
+	width: 1289px;
+	height: 542px;
+	left: 329px;
+	top: 352px;
+	overflow: visible;
+}
+#Dennis {
+	position: absolute;
+	width: 262px;
+	height: 217px;
+	left: 1027px;
+	top: 288px;
+	overflow: visible;
+}
+#Dennis_Meijer_Student_HBO_ict_ {
+	position: absolute;
+	left: 0px;
+	top: 171px;
+	overflow: visible;
+	width: 263px;
+	white-space: nowrap;
+	line-height: 27px;
+	margin-top: -5.5px;
+	text-align: center;
+	font-family: Raleway;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 16px;
+	color: rgba(0,0,0,1);
+}
+#Image_5 {
+	position: absolute;
+	width: 120px;
+	height: 160.615px;
+	left: 70px;
+	top: 0px;
+	overflow: visible;
+}
+#Tessy {
+	position: absolute;
+	width: 214px;
+	height: 257px;
+	left: 1049px;
+	top: 0px;
+	overflow: visible;
+}
+#Tessy_de_Greef_HBO_verpleegkun {
+	position: absolute;
+	left: 0px;
+	top: 211px;
+	overflow: visible;
+	width: 215px;
+	white-space: nowrap;
+	line-height: 27px;
+	margin-top: -5.5px;
+	text-align: center;
+	font-family: Raleway;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 16px;
+	color: rgba(0,0,0,1);
+}
+#Image_6 {
+	position: absolute;
+	width: 120px;
+	height: 200.769px;
+	left: 47px;
+	top: 0px;
+	overflow: visible;
+}
+#Melissa {
+	position: absolute;
+	width: 214px;
+	height: 254px;
+	left: 0px;
+	top: 288px;
+	overflow: visible;
+}
+#Melissa_Storck_HBO_verpleegkun {
+	position: absolute;
+	left: 0px;
+	top: 208px;
+	overflow: visible;
+	width: 215px;
+	white-space: nowrap;
+	line-height: 27px;
+	margin-top: -5.5px;
+	text-align: center;
+	font-family: Raleway;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 16px;
+	color: rgba(0,0,0,1);
+}
+#Image_4 {
+	position: absolute;
+	width: 120px;
+	height: 197.838px;
+	left: 47px;
+	top: 0px;
+	overflow: visible;
+}
+#Lotte {
+	position: absolute;
+	width: 214px;
+	height: 238px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+#Lotte_Albada_Jelgersma_HBO_ver {
+	position: absolute;
+	left: 0px;
+	top: 192px;
+	overflow: visible;
+	width: 215px;
+	white-space: nowrap;
+	line-height: 27px;
+	margin-top: -5.5px;
+	text-align: center;
+	font-family: Raleway;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 16px;
+	color: rgba(0,0,0,1);
+}
+#Image_7 {
+	position: absolute;
+	width: 120px;
+	height: 181.558px;
+	left: 47px;
+	top: 0px;
+	overflow: visible;
+}
+#Header {
+	position: absolute;
+	width: 1170px;
+	height: 415px;
+	left: 375px;
+	top: 0px;
+	overflow: visible;
+}
+#achtergrond {
+	position: absolute;
+	width: 1170px;
+	height: 63px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+.Rectangle_16_ft {
+	position: absolute;
+	overflow: visible;
+	width: 1170px;
+	height: 30px;
+	left: 0px;
+	top: 0px;
+}
+.Rectangle_15_fv {
+	position: absolute;
+	overflow: visible;
+	width: 1170px;
+	height: 63px;
+	left: 0px;
+	top: 0px;
+}
+#knoppen {
+	position: absolute;
+	width: 1170px;
+	height: 148px;
+	left: 0px;
+	top: 267px;
+	overflow: visible;
+}
+#Group_28 {
+	position: absolute;
+	width: 112px;
+	height: 114px;
+	left: 430px;
+	top: 34px;
+	overflow: visible;
+}
+.Rectangle_56 {
+	filter: drop-shadow(3px 6px 6px rgba(0, 0, 0, 0.161));
+	position: absolute;
+	overflow: visible;
+	width: 130px;
+	height: 132px;
+	left: 0px;
+	top: 0px;
+}
+#Wetgeving {
+	position: absolute;
+	left: 10px;
+	top: 91px;
+	overflow: visible;
+	width: 64px;
+	white-space: nowrap;
+	--web-animation: fadein 0.3s ease-out;
+	--web-action-type: page;
+	--web-action-target: wetgeving.html;
+	cursor: pointer;
+	line-height: 24px;
+	margin-top: -5.5px;
+	text-align: left;
+	font-family: Open Sans;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 13px;
+	color: rgba(0,0,0,1);
+}
+.Line_19 {
+	overflow: visible;
+	position: absolute;
+	width: 97px;
+	height: 1px;
+	left: 7.5px;
+	top: 86px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Medicatie {
+	position: absolute;
+	left: 10px;
+	top: 65px;
+	overflow: visible;
+	width: 60px;
+	white-space: nowrap;
+	--web-animation: fadein 0.3s ease-out;
+	--web-action-type: page;
+	--web-action-target: medicatie.html;
+	cursor: pointer;
+	line-height: 24px;
+	margin-top: -5.5px;
+	text-align: left;
+	font-family: Open Sans;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 13px;
+	color: rgba(0,0,0,1);
+}
+.Line_18 {
+	overflow: visible;
+	position: absolute;
+	width: 97px;
+	height: 1px;
+	left: 7.5px;
+	top: 60px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#ADHD {
+	position: absolute;
+	left: 10px;
+	top: 39px;
+	overflow: visible;
+	width: 38px;
+	white-space: nowrap;
+	--web-animation: fadein 0.3s ease-out;
+	--web-action-type: page;
+	--web-action-target: adhd.html;
+	cursor: pointer;
+	line-height: 24px;
+	margin-top: -5.5px;
+	text-align: left;
+	font-family: Open Sans;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 13px;
+	color: rgba(0,0,0,1);
+}
+.Line_17 {
+	overflow: visible;
+	position: absolute;
+	width: 97px;
+	height: 1px;
+	left: 7.5px;
+	top: 34px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Methylfenidaat {
+	position: absolute;
+	left: 10px;
+	top: 13px;
+	overflow: visible;
+	width: 92px;
+	white-space: nowrap;
+	--web-animation: fadein 0.3s ease-out;
+	--web-action-type: page;
+	--web-action-target: methylfenidaat.html;
+	cursor: pointer;
+	line-height: 24px;
+	margin-top: -5.5px;
+	text-align: left;
+	font-family: Open Sans;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 13px;
+	color: rgba(0,0,0,1);
+}
+.Line_20 {
+	overflow: visible;
+	position: absolute;
+	width: 97px;
+	height: 1px;
+	left: 7.5px;
+	top: 8px;
+	transform: matrix(1,0,0,1,0,0);
+}
+.Rectangle_20 {
+	position: absolute;
+	overflow: visible;
+	width: 1170px;
+	height: 40px;
+	left: 0px;
+	top: 0px;
+}
+.Rectangle_22 {
+	position: absolute;
+	overflow: visible;
+	width: 1170px;
+	height: 20px;
+	left: 0px;
+	top: 0px;
+}
+#tips {
+	position: absolute;
+	width: 30px;
+	height: 20px;
+	left: 766px;
+	top: 10px;
+	overflow: visible;
+	--web-animation: fadein 0.3s ease-out;
+	--web-action-type: page;
+	--web-action-target: het_project___t.html;
+	cursor: pointer;
+}
+#TIPS_ga {
+	position: absolute;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+	width: 31px;
+	white-space: nowrap;
+	line-height: 24px;
+	margin-top: -4.5px;
+	text-align: center;
+	font-family: Open Sans;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 15px;
+	color: rgba(0,0,0,1);
+}
+#risicos {
+	position: absolute;
+	width: 58px;
+	height: 20px;
+	left: 688px;
+	top: 10px;
+	overflow: visible;
+	--web-animation: fadein 0.3s ease-out;
+	--web-action-type: page;
+	--web-action-target: het_project___r.html;
+	cursor: pointer;
+}
+#RISICO_S {
+	position: absolute;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+	width: 59px;
+	white-space: nowrap;
+	line-height: 24px;
+	margin-top: -4.5px;
+	text-align: center;
+	font-family: Open Sans;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 15px;
+	color: rgba(0,0,0,1);
+}
+#verslaafd {
+	position: absolute;
+	width: 80px;
+	height: 20px;
+	left: 588px;
+	top: 10px;
+	overflow: visible;
+	--web-animation: fadein 0.3s ease-out;
+	--web-action-type: page;
+	--web-action-target: verslaafd.html;
+	cursor: pointer;
+}
+#VERSLAAFD_ge {
+	position: absolute;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+	width: 81px;
+	white-space: nowrap;
+	line-height: 24px;
+	margin-top: -4.5px;
+	text-align: center;
+	font-family: Open Sans;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 15px;
+	color: rgba(0,0,0,1);
+}
+#methylfenidaat {
+	position: absolute;
+	width: 128px;
+	height: 20px;
+	left: 440px;
+	top: 10px;
+	overflow: visible;
+}
+#METHYLFENIDAAT_gg {
+	position: absolute;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+	width: 129px;
+	white-space: nowrap;
+	line-height: 24px;
+	margin-top: -4.5px;
+	text-align: center;
+	font-family: Open Sans;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 15px;
+	color: rgba(0,0,0,1);
+}
+#home {
+	position: absolute;
+	width: 45px;
+	height: 20px;
+	left: 375px;
+	top: 10px;
+	overflow: visible;
+	--web-animation: fadein 0.3s ease-out;
+	--web-action-type: page;
+	--web-action-target: index.html;
+	cursor: pointer;
+}
+#HOME_gi {
+	position: absolute;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+	width: 46px;
+	white-space: nowrap;
+	line-height: 24px;
+	margin-top: -4.5px;
+	text-align: left;
+	font-family: Open Sans;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 15px;
+	color: rgba(0,0,0,1);
+}
+#zoekbalk {
+	position: absolute;
+	width: 262px;
+	height: 34px;
+	left: 895px;
+	top: 14px;
+	overflow: visible;
+}
+.Rectangle_17 {
+	position: absolute;
+	overflow: visible;
+	width: 262px;
+	height: 34px;
+	left: 0px;
+	top: 0px;
+}
+#Zoek_op_trefwoord {
+	position: absolute;
+	left: 8px;
+	top: 9px;
+	overflow: visible;
+	width: 122px;
+	white-space: nowrap;
+	line-height: 58px;
+	margin-top: -22px;
+	text-align: left;
+	font-family: Open Sans;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 14px;
+	color: rgba(0,0,0,1);
+}
+#glassmagnifiermagnifyingsearch {
+	opacity: 0.35;
+	position: absolute;
+	width: 30px;
+	height: 30px;
+	left: 227px;
+	top: 2px;
+	overflow: visible;
+}
+#banner5 {
+	position: absolute;
+	width: 1170px;
+	height: 175px;
+	left: 0px;
+	top: 92px;
+	overflow: visible;
+}
+#Informatie_over_misbruik_methy {
+	position: absolute;
+	left: 15px;
+	top: 63px;
+	overflow: visible;
+	width: 478px;
+	white-space: nowrap;
+	line-height: 58px;
+	margin-top: -16px;
+	text-align: left;
+	font-family: Raleway;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 26px;
+	color: rgba(0,0,0,1);
+}
+#ADHD_MEDICATIE {
+	position: absolute;
+	left: 15px;
+	top: 11px;
+	overflow: visible;
+	width: 313px;
+	white-space: nowrap;
+	line-height: 58px;
+	margin-top: -11px;
+	text-align: left;
+	font-family: SansSerif;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 36px;
+	color: rgba(255,255,255,1);
+}
