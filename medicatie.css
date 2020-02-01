@@ -1,13 +1,13 @@
 .mediaViewInfo {
-	--web-view-name: index – m;
-	--web-view-id: index___m;
+	--web-view-name: medicatie;
+	--web-view-id: medicatie;
 	--web-scale-on-resize: true;
 	--web-center-horizontally: true;
 	--web-navigate-on-keypress: true;
 	--web-enable-deep-linking: true;
 }
 :root {
-	--web-view-ids: index___m;
+	--web-view-ids: medicatie;
 }
 * {
 	margin: 0;
@@ -15,17 +15,17 @@
 	box-sizing: border-box;
 	border: none;
 }
-.index___m_Class {
+.medicatie_Class {
 	position: absolute;
 	transform: translateX(-50%);
 	left: 50%;
 	background: #E5E5E5;
 	width: 1200px;
-	height: 1642px;
+	height: 1796px;
 	background-color: rgba(255,255,255,1);
 	overflow: hidden;
-	--web-view-name: index – m;
-	--web-view-id: index___m;
+	--web-view-name: medicatie;
+	--web-view-id: medicatie;
 	--web-scale-on-resize: true;
 	--web-center-horizontally: true;
 	--web-navigate-on-keypress: true;
@@ -46,10 +46,10 @@
 	width: 1170px;
 	height: 120px;
 	left: 15px;
-	top: 1522px;
+	top: 1676px;
 	overflow: visible;
 }
-.Rectangle_53 {
+.Rectangle_25 {
 	position: absolute;
 	overflow: visible;
 	width: 1170px;
@@ -57,7 +57,7 @@
 	left: 0px;
 	top: 90px;
 }
-.Rectangle_25 {
+.Rectangle_52 {
 	position: absolute;
 	overflow: visible;
 	width: 1170px;
@@ -107,48 +107,356 @@
 }
 .Body_Class {
 	position: absolute;
-	width: 560px;
-	height: 1125px;
-	left: 320px;
+	width: 594px;
+	height: 1279px;
+	left: 303px;
 	top: 352px;
 	overflow: visible;
 }
-.video_Class {
-	box-sizing: border-box;
-	margin: 0;
-	padding: 0;
+.bronvermelding_Class {
 	position: absolute;
-	width: 560px;
-	height: 315px;
-	left: 0px;
-	top: 810px;
+	left: 25.5px;
+	top: 1260px;
 	overflow: visible;
+	width: 435px;
+	white-space: nowrap;
+	line-height: 27px;
+	margin-top: -5.5px;
+	text-align: left;
+	font-family: Raleway;
+	font-style: italic;
+	font-weight: normal;
+	font-size: 16px;
+	color: rgba(0,0,0,1);
 }
-.Nog_even_een_goede_studeersess_Class {
+.Dit_medicijn_wordt_oorspronkel_Class {
 	position: absolute;
-	left: 8px;
-	top: 0px;
+	left: 25.5px;
+	top: 642px;
 	overflow: visible;
-	width: 546px;
+	width: 545px;
 	white-space: nowrap;
 	line-height: 27px;
 	margin-top: -5.5px;
 	text-align: left;
 	font-family: Raleway;
 	font-style: normal;
-	font-weight: bold;
+	font-weight: normal;
 	font-size: 16px;
+	color: rgba(0,0,0,1);
+}
+.Methylfenidaat__wanneer_krijg__Class {
+	position: absolute;
+	left: 25.5px;
+	top: 607px;
+	overflow: visible;
+	width: 336px;
+	white-space: nowrap;
+	line-height: 27px;
+	margin-top: -4px;
+	text-align: left;
+	font-family: Open Sans;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 19px;
+	color: rgba(0,0,0,1);
+}
+.bronvermelding_bq_Class {
+	position: absolute;
+	left: 24.5px;
+	top: 553px;
+	overflow: visible;
+	width: 387px;
+	white-space: nowrap;
+	line-height: 27px;
+	margin-top: -5.5px;
+	text-align: left;
+	font-family: Raleway;
+	font-style: italic;
+	font-weight: normal;
+	font-size: 16px;
+	color: rgba(0,0,0,1);
+	text-decoration: true;
+}
+.bronvermelding_br_Class {
+	position: absolute;
+	left: 24.5px;
+	top: 505px;
+	overflow: visible;
+	width: 540px;
+	white-space: nowrap;
+	line-height: 27px;
+	margin-top: -5.5px;
+	text-align: left;
+	font-family: Raleway;
+	font-style: italic;
+	font-weight: normal;
+	font-size: 16px;
+	color: rgba(0,0,0,1);
+}
+.bronvermelding_bs_Class {
+	position: absolute;
+	left: 359.5px;
+	top: 477px;
+	overflow: visible;
+	width: 232px;
+	white-space: nowrap;
+	line-height: 27px;
+	margin-top: -5.5px;
+	text-align: left;
+	font-family: Raleway;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 16px;
+	color: rgba(0,0,0,1);
+}
+.bronvermelding_bt_Class {
+	position: absolute;
+	left: 96.5px;
+	top: 723px;
+	overflow: visible;
+	width: 315px;
+	white-space: nowrap;
+	line-height: 27px;
+	margin-top: -5.5px;
+	text-align: left;
+	font-family: Raleway;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 16px;
+	color: rgba(0,0,0,1);
+	text-decoration: true;
+}
+.Group_11_Class {
+	position: absolute;
+	width: 594px;
+	height: 154px;
+	left: 0px;
+	top: 314px;
+	overflow: visible;
+}
+.Rectangle_57 {
+	filter: drop-shadow(2px 4px 8px rgba(52, 130, 199, 1));
+	position: absolute;
+	overflow: visible;
+	width: 618px;
+	height: 178px;
+	left: 0px;
+	top: 0px;
+}
+.Rectangle_58 {
+	position: absolute;
+	overflow: visible;
+	width: 594px;
+	height: 30px;
+	left: 0px;
+	top: 0px;
+}
+.werkt_3_tot_6_uur_Class {
+	position: absolute;
+	left: 5px;
+	top: 7px;
+	overflow: visible;
+	width: 98px;
+	white-space: nowrap;
+	line-height: 27px;
+	margin-top: -7.5px;
+	text-align: left;
+	font-family: Open Sans;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 12px;
+	color: rgba(255,255,255,1);
+}
+.werkt_tot_ongeveer_8_uur__Class {
+	position: absolute;
+	left: 203px;
+	top: 7px;
+	overflow: visible;
+	width: 151px;
+	white-space: nowrap;
+	line-height: 27px;
+	margin-top: -7.5px;
+	text-align: left;
+	font-family: Open Sans;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 12px;
+	color: rgba(255,255,255,1);
+}
+.werkt_tot_ongeveer_12_uur_lang_Class {
+	position: absolute;
+	left: 401px;
+	top: 7px;
+	overflow: visible;
+	width: 186px;
+	white-space: nowrap;
+	line-height: 27px;
+	margin-top: -7.5px;
+	text-align: left;
+	font-family: Open Sans;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 12px;
+	color: rgba(255,255,255,1);
+}
+.____Ritalin_tablet_____________Class {
+	position: absolute;
+	left: 5px;
+	top: 35px;
+	overflow: visible;
+	width: 147px;
+	white-space: nowrap;
+	line-height: 19px;
+	margin-top: -3.5px;
+	text-align: left;
+	font-family: Raleway;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 12px;
+	color: rgba(0,0,0,1);
+}
+.____Equasym_capsule____________Class {
+	position: absolute;
+	left: 203px;
+	top: 35px;
+	overflow: visible;
+	width: 178px;
+	white-space: nowrap;
+	line-height: 19px;
+	margin-top: -3.5px;
+	text-align: left;
+	font-family: Raleway;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 12px;
+	color: rgba(0,0,0,1);
+}
+.____Concerta_tablet____________Class {
+	position: absolute;
+	left: 401px;
+	top: 35px;
+	overflow: visible;
+	width: 190px;
+	white-space: nowrap;
+	line-height: 19px;
+	margin-top: -3.5px;
+	text-align: left;
+	font-family: Raleway;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 12px;
+	color: rgba(0,0,0,1);
+}
+.Line_23 {
+	overflow: visible;
+	position: absolute;
+	width: 1px;
+	height: 124px;
+	left: 197.5px;
+	top: 29.5px;
+	transform: matrix(1,0,0,1,0,0);
+}
+.Line_31 {
+	overflow: visible;
+	position: absolute;
+	width: 1px;
+	height: 28px;
+	left: 197.5px;
+	top: 1px;
+	transform: matrix(1,0,0,1,0,0);
+}
+.Line_32 {
+	overflow: visible;
+	position: absolute;
+	width: 1px;
+	height: 28px;
+	left: 395.5px;
+	top: 1px;
+	transform: matrix(1,0,0,1,0,0);
+}
+.Line_24 {
+	overflow: visible;
+	position: absolute;
+	width: 1px;
+	height: 124px;
+	left: 395.5px;
+	top: 29.5px;
+	transform: matrix(1,0,0,1,0,0);
+}
+.Alle_medicatie_werkt_1___2_uur_Class {
+	position: absolute;
+	left: 24.5px;
+	top: 286px;
+	overflow: visible;
+	width: 305px;
+	white-space: nowrap;
+	line-height: 27px;
+	margin-top: -5.5px;
+	text-align: left;
+	font-family: Raleway;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 16px;
+	color: rgba(0,0,0,1);
+}
+.Werkduur_medicatie_Class {
+	position: absolute;
+	left: 24.5px;
+	top: 251px;
+	overflow: visible;
+	width: 188px;
+	white-space: nowrap;
+	line-height: 27px;
+	margin-top: -4px;
+	text-align: left;
+	font-family: Open Sans;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 19px;
+	color: rgba(0,0,0,1);
+}
+.De_merknamen_die_je_tegen_kunt_Class {
+	position: absolute;
+	left: 24.5px;
+	top: 35px;
+	overflow: visible;
+	width: 475px;
+	white-space: nowrap;
+	line-height: 27px;
+	margin-top: -5.5px;
+	text-align: left;
+	font-family: Raleway;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 16px;
+	color: rgba(0,0,0,1);
+}
+.Methylfenidaat__welke_soorten__Class {
+	position: absolute;
+	left: 24.5px;
+	top: 0px;
+	overflow: visible;
+	width: 350px;
+	white-space: nowrap;
+	line-height: 27px;
+	margin-top: -4px;
+	text-align: left;
+	font-family: Open Sans;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 19px;
 	color: rgba(0,0,0,1);
 }
 .Header_Class {
 	position: absolute;
 	width: 1200px;
-	height: 415px;
+	height: 307px;
 	left: 0px;
 	top: 0px;
 	overflow: visible;
 }
-.Rectangle_65 {
+.Rectangle_77 {
 	position: absolute;
 	overflow: visible;
 	width: 1200px;
@@ -164,7 +472,7 @@
 	top: 0px;
 	overflow: visible;
 }
-.Rectangle_16_ckl {
+.Rectangle_16_bf {
 	position: absolute;
 	overflow: visible;
 	width: 1170px;
@@ -172,7 +480,7 @@
 	left: 0px;
 	top: 0px;
 }
-.Rectangle_15_ckn {
+.Rectangle_15_bh {
 	position: absolute;
 	overflow: visible;
 	width: 1170px;
@@ -183,7 +491,7 @@
 .knoppen_Class {
 	position: absolute;
 	width: 1170px;
-	height: 148px;
+	height: 40px;
 	left: 15px;
 	top: 267px;
 	overflow: visible;
@@ -204,139 +512,6 @@
 	left: 0px;
 	top: 0px;
 }
-.Group_2_Class {
-	position: absolute;
-	width: 112px;
-	height: 114px;
-	left: 430px;
-	top: 34px;
-	overflow: visible;
-}
-.Rectangle_56 {
-	filter: drop-shadow(3px 6px 6px rgba(0, 0, 0, 0.161));
-	position: absolute;
-	overflow: visible;
-	width: 130px;
-	height: 132px;
-	left: 0px;
-	top: 0px;
-}
-.Wetgeving_Class {
-	position: absolute;
-	left: 10px;
-	top: 91px;
-	overflow: visible;
-	width: 64px;
-	white-space: nowrap;
-	--web-animation: fadein 0.3s ease-out;
-	--web-action-type: page;
-	--web-action-target: wetgeving.html;
-	cursor: pointer;
-	line-height: 24px;
-	margin-top: -5.5px;
-	text-align: left;
-	font-family: Open Sans;
-	font-style: normal;
-	font-weight: normal;
-	font-size: 13px;
-	color: rgba(0,0,0,1);
-}
-.Line_19 {
-	overflow: visible;
-	position: absolute;
-	width: 97px;
-	height: 1px;
-	left: 7.5px;
-	top: 86px;
-	transform: matrix(1,0,0,1,0,0);
-}
-.Medicatie_Class {
-	position: absolute;
-	left: 10px;
-	top: 65px;
-	overflow: visible;
-	width: 60px;
-	white-space: nowrap;
-	--web-animation: fadein 0.3s ease-out;
-	--web-action-type: page;
-	--web-action-target: medicatie.html;
-	cursor: pointer;
-	line-height: 24px;
-	margin-top: -5.5px;
-	text-align: left;
-	font-family: Open Sans;
-	font-style: normal;
-	font-weight: normal;
-	font-size: 13px;
-	color: rgba(0,0,0,1);
-}
-.Line_18 {
-	overflow: visible;
-	position: absolute;
-	width: 97px;
-	height: 1px;
-	left: 7.5px;
-	top: 60px;
-	transform: matrix(1,0,0,1,0,0);
-}
-.ADHD_Class {
-	position: absolute;
-	left: 10px;
-	top: 39px;
-	overflow: visible;
-	width: 38px;
-	white-space: nowrap;
-	--web-animation: fadein 0.3s ease-out;
-	--web-action-type: page;
-	--web-action-target: adhd.html;
-	cursor: pointer;
-	line-height: 24px;
-	margin-top: -5.5px;
-	text-align: left;
-	font-family: Open Sans;
-	font-style: normal;
-	font-weight: normal;
-	font-size: 13px;
-	color: rgba(0,0,0,1);
-}
-.Line_17 {
-	overflow: visible;
-	position: absolute;
-	width: 97px;
-	height: 1px;
-	left: 7.5px;
-	top: 34px;
-	transform: matrix(1,0,0,1,0,0);
-}
-.Methylfenidaat_Class {
-	position: absolute;
-	left: 10px;
-	top: 13px;
-	overflow: visible;
-	width: 92px;
-	white-space: nowrap;
-	--web-animation: fadein 0.3s ease-out;
-	--web-action-type: page;
-	--web-action-target: methylfenidaat.html;
-	cursor: pointer;
-	line-height: 24px;
-	margin-top: -5.5px;
-	text-align: left;
-	font-family: Open Sans;
-	font-style: normal;
-	font-weight: normal;
-	font-size: 13px;
-	color: rgba(0,0,0,1);
-}
-.Line_20 {
-	overflow: visible;
-	position: absolute;
-	width: 97px;
-	height: 1px;
-	left: 7.5px;
-	top: 8px;
-	transform: matrix(1,0,0,1,0,0);
-}
 .tips_Class {
 	position: absolute;
 	width: 30px;
@@ -346,10 +521,10 @@
 	overflow: visible;
 	--web-animation: fadein 0.3s ease-out;
 	--web-action-type: page;
-	--web-action-target: index___t.html;
+	--web-action-target: medicatie___t.html;
 	cursor: pointer;
 }
-.TIPS_ck_Class {
+.TIPS_bm_Class {
 	position: absolute;
 	left: 0px;
 	top: 0px;
@@ -374,7 +549,7 @@
 	overflow: visible;
 	--web-animation: fadein 0.3s ease-out;
 	--web-action-type: page;
-	--web-action-target: index___r.html;
+	--web-action-target: medicatie___r.html;
 	cursor: pointer;
 }
 .RISICO_S_Class {
@@ -405,7 +580,7 @@
 	--web-action-target: verslaafd.html;
 	cursor: pointer;
 }
-.VERSLAAFD_ck_Class {
+.VERSLAAFD_bq_Class {
 	position: absolute;
 	left: 0px;
 	top: 0px;
@@ -424,12 +599,24 @@
 .methylfenidaat_Class {
 	position: absolute;
 	width: 128px;
-	height: 20px;
+	height: 30px;
 	left: 440px;
 	top: 10px;
 	overflow: visible;
+	--web-animation: fadein 0.3s ease-out;
+	--web-action-type: page;
+	--web-action-target: medicatie___m.html;
+	cursor: pointer;
 }
-.METHYLFENIDAAT_ck_Class {
+.Rectangle_24 {
+	position: absolute;
+	overflow: visible;
+	width: 128px;
+	height: 5px;
+	left: 0px;
+	top: 25px;
+}
+.METHYLFENIDAAT_bt_Class {
 	position: absolute;
 	left: 0px;
 	top: 0px;
@@ -448,7 +635,7 @@
 .home_Class {
 	position: absolute;
 	width: 45px;
-	height: 30px;
+	height: 20px;
 	left: 375px;
 	top: 10px;
 	overflow: visible;
@@ -457,15 +644,7 @@
 	--web-action-target: index.html;
 	cursor: pointer;
 }
-.Rectangle_24 {
-	position: absolute;
-	overflow: visible;
-	width: 45px;
-	height: 5px;
-	left: 0px;
-	top: 25px;
-}
-.HOME_clb_Class {
+.HOME_bv_Class {
 	position: absolute;
 	left: 0px;
 	top: 0px;

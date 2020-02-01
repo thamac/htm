@@ -1,0 +1,919 @@
+.mediaViewInfo {
+	--web-view-name: media – t;
+	--web-view-id: media___t;
+	--web-scale-on-resize: true;
+	--web-center-horizontally: true;
+	--web-navigate-on-keypress: true;
+	--web-enable-deep-linking: true;
+}
+:root {
+	--web-view-ids: media___t;
+}
+* {
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+	border: none;
+}
+.media___t_Class {
+	position: absolute;
+	transform: translateX(-50%);
+	left: 50%;
+	background: #E5E5E5;
+	width: 1200px;
+	height: 1505px;
+	background-color: rgba(255,255,255,1);
+	overflow: hidden;
+	--web-view-name: media – t;
+	--web-view-id: media___t;
+	--web-scale-on-resize: true;
+	--web-center-horizontally: true;
+	--web-navigate-on-keypress: true;
+	--web-enable-deep-linking: true;
+}
+@keyframes fadein {
+
+	0% {
+		opacity: 0;
+	}
+	100% {
+		opacity: 1;
+	}
+
+}
+.Footer_Class {
+	position: absolute;
+	width: 1170px;
+	height: 120px;
+	left: 15px;
+	top: 1385px;
+	overflow: visible;
+}
+.Rectangle_53 {
+	position: absolute;
+	overflow: visible;
+	width: 1170px;
+	height: 30px;
+	left: 0px;
+	top: 90px;
+}
+.Rectangle_25 {
+	position: absolute;
+	overflow: visible;
+	width: 1170px;
+	height: 120px;
+	left: 0px;
+	top: 0px;
+}
+.HET_PROJECT_Class {
+	position: absolute;
+	left: 715px;
+	top: 48px;
+	overflow: visible;
+	width: 131px;
+	white-space: nowrap;
+	--web-animation: fadein 0.3s ease-out;
+	--web-action-type: page;
+	--web-action-target: het_project.html;
+	cursor: pointer;
+	line-height: 27px;
+	margin-top: -3.5px;
+	text-align: center;
+	font-family: Raleway;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 20px;
+	color: rgba(44,111,170,1);
+}
+.MEDIA_Class {
+	position: absolute;
+	left: 358px;
+	top: 48px;
+	overflow: visible;
+	width: 63px;
+	white-space: nowrap;
+	line-height: 27px;
+	margin-top: -3.5px;
+	text-align: center;
+	font-family: Raleway;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 20px;
+	color: rgba(44,111,170,1);
+}
+.Body_Class {
+	position: absolute;
+	width: 542px;
+	height: 952px;
+	left: 329px;
+	top: 352px;
+	overflow: visible;
+}
+.Group_47_Class {
+	position: absolute;
+	width: 537px;
+	height: 246px;
+	left: 0px;
+	top: 706px;
+	overflow: visible;
+}
+.____https___demonitor_kro_ncrv_Class {
+	position: absolute;
+	left: 0px;
+	top: 200px;
+	overflow: visible;
+	width: 505px;
+	white-space: nowrap;
+	line-height: 27px;
+	margin-top: -5.5px;
+	text-align: left;
+	font-family: Raleway;
+	font-style: italic;
+	font-weight: normal;
+	font-size: 16px;
+	color: rgba(0,0,0,1);
+	text-decoration: true;
+}
+.____https___www_folia_nl_actue_Class {
+	position: absolute;
+	left: 0px;
+	top: 145px;
+	overflow: visible;
+	width: 473px;
+	white-space: nowrap;
+	line-height: 27px;
+	margin-top: -5.5px;
+	text-align: left;
+	font-family: Raleway;
+	font-style: italic;
+	font-weight: normal;
+	font-size: 16px;
+	color: rgba(0,0,0,1);
+	text-decoration: true;
+}
+.____https___www_vice_com_nl_ar_Class {
+	position: absolute;
+	left: 0px;
+	top: 90px;
+	overflow: visible;
+	width: 535px;
+	white-space: nowrap;
+	line-height: 27px;
+	margin-top: -5.5px;
+	text-align: left;
+	font-family: Raleway;
+	font-style: italic;
+	font-weight: normal;
+	font-size: 16px;
+	color: rgba(0,0,0,1);
+	text-decoration: true;
+}
+.____https___pers_bnnvara_nl_dr_Class {
+	position: absolute;
+	left: 0px;
+	top: 35px;
+	overflow: visible;
+	width: 538px;
+	white-space: nowrap;
+	line-height: 27px;
+	margin-top: -5.5px;
+	text-align: left;
+	font-family: Raleway;
+	font-style: italic;
+	font-weight: normal;
+	font-size: 16px;
+	color: rgba(0,0,0,1);
+	text-decoration: true;
+}
+.Overige_media_Class {
+	position: absolute;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+	width: 134px;
+	white-space: nowrap;
+	line-height: 27px;
+	margin-top: -4px;
+	text-align: left;
+	font-family: Open Sans;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 19px;
+	color: rgba(0,0,0,1);
+}
+.Group_46_Class {
+	position: absolute;
+	width: 542px;
+	height: 328px;
+	left: 0px;
+	top: 343px;
+	overflow: visible;
+}
+.____https___www_parool_nl_colu_Class {
+	position: absolute;
+	left: 1px;
+	top: 282px;
+	overflow: visible;
+	width: 534px;
+	white-space: nowrap;
+	line-height: 27px;
+	margin-top: -5.5px;
+	text-align: left;
+	font-family: Raleway;
+	font-style: italic;
+	font-weight: normal;
+	font-size: 16px;
+	color: rgba(0,0,0,1);
+	text-decoration: true;
+}
+.____https___nos_nl_op3_artikel_Class {
+	position: absolute;
+	left: 0px;
+	top: 227px;
+	overflow: visible;
+	width: 531px;
+	white-space: nowrap;
+	line-height: 27px;
+	margin-top: -5.5px;
+	text-align: left;
+	font-family: Raleway;
+	font-style: italic;
+	font-weight: normal;
+	font-size: 16px;
+	color: rgba(0,0,0,1);
+	text-decoration: true;
+}
+.____https___www_trouw_nl_nieuw_Class {
+	position: absolute;
+	left: 1px;
+	top: 172px;
+	overflow: visible;
+	width: 542px;
+	white-space: nowrap;
+	line-height: 27px;
+	margin-top: -5.5px;
+	text-align: left;
+	font-family: Raleway;
+	font-style: italic;
+	font-weight: normal;
+	font-size: 16px;
+	color: rgba(0,0,0,1);
+	text-decoration: true;
+}
+.____https___nos_nl_op3_artikel_it_Class {
+	position: absolute;
+	left: 0px;
+	top: 117px;
+	overflow: visible;
+	width: 523px;
+	white-space: nowrap;
+	line-height: 27px;
+	margin-top: -5.5px;
+	text-align: left;
+	font-family: Raleway;
+	font-style: italic;
+	font-weight: normal;
+	font-size: 16px;
+	color: rgba(0,0,0,1);
+	text-decoration: true;
+}
+.____https___www_volkskrant_nl__Class {
+	position: absolute;
+	left: 1px;
+	top: 35px;
+	overflow: visible;
+	width: 541px;
+	white-space: nowrap;
+	line-height: 27px;
+	margin-top: -5.5px;
+	text-align: left;
+	font-family: Raleway;
+	font-style: italic;
+	font-weight: normal;
+	font-size: 16px;
+	color: rgba(0,0,0,1);
+	text-decoration: true;
+}
+.Krant__nieuws_Class {
+	position: absolute;
+	left: 1px;
+	top: 0px;
+	overflow: visible;
+	width: 129px;
+	white-space: nowrap;
+	line-height: 27px;
+	margin-top: -4px;
+	text-align: left;
+	font-family: Open Sans;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 19px;
+	color: rgba(0,0,0,1);
+}
+.Group_45_Class {
+	position: absolute;
+	width: 508px;
+	height: 308px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+.https___www_npostart_nl_3lab_2_Class {
+	position: absolute;
+	left: 0px;
+	top: 289px;
+	overflow: visible;
+	width: 448px;
+	white-space: nowrap;
+	line-height: 27px;
+	margin-top: -5.5px;
+	text-align: left;
+	font-family: Raleway;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 16px;
+	color: rgba(0,0,0,1);
+	text-decoration: true;
+}
+.____Onder_druk_Class {
+	position: absolute;
+	left: 0px;
+	top: 270px;
+	overflow: visible;
+	width: 102px;
+	white-space: nowrap;
+	line-height: 27px;
+	margin-top: -5.5px;
+	text-align: left;
+	font-family: Raleway;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 16px;
+	color: rgba(0,0,0,1);
+}
+.https___www_youtube_com_watch__Class {
+	position: absolute;
+	left: 0px;
+	top: 242px;
+	overflow: visible;
+	width: 380px;
+	white-space: nowrap;
+	line-height: 27px;
+	margin-top: -5.5px;
+	text-align: left;
+	font-family: Raleway;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 16px;
+	color: rgba(0,0,0,1);
+	text-decoration: true;
+}
+.____Trailer__take_your_pills___Class {
+	position: absolute;
+	left: 0px;
+	top: 223px;
+	overflow: visible;
+	width: 482px;
+	white-space: nowrap;
+	line-height: 27px;
+	margin-top: -5.5px;
+	text-align: left;
+	font-family: Raleway;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 16px;
+	color: rgba(0,0,0,1);
+}
+.https___www_youtube_com_watch__i_Class {
+	position: absolute;
+	left: 0px;
+	top: 195px;
+	overflow: visible;
+	width: 509px;
+	white-space: nowrap;
+	line-height: 27px;
+	margin-top: -5.5px;
+	text-align: left;
+	font-family: Raleway;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 16px;
+	color: rgba(0,0,0,1);
+	text-decoration: true;
+}
+.____De_waarheid_over_ADHD__voo_Class {
+	position: absolute;
+	left: 0px;
+	top: 176px;
+	overflow: visible;
+	width: 424px;
+	white-space: nowrap;
+	line-height: 27px;
+	margin-top: -5.5px;
+	text-align: left;
+	font-family: Raleway;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 16px;
+	color: rgba(0,0,0,1);
+}
+.https___www_youtube_com_watch__ja_Class {
+	position: absolute;
+	left: 0px;
+	top: 148px;
+	overflow: visible;
+	width: 372px;
+	white-space: nowrap;
+	line-height: 27px;
+	margin-top: -5.5px;
+	text-align: left;
+	font-family: Raleway;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 16px;
+	color: rgba(0,0,0,1);
+	text-decoration: true;
+}
+.____Spuiten_en_Slikken_aflever_Class {
+	position: absolute;
+	left: 0px;
+	top: 129px;
+	overflow: visible;
+	width: 318px;
+	white-space: nowrap;
+	line-height: 27px;
+	margin-top: -5.5px;
+	text-align: left;
+	font-family: Raleway;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 16px;
+	color: rgba(0,0,0,1);
+}
+.https___www_youtube_com_watch__jb_Class {
+	position: absolute;
+	left: 0px;
+	top: 101px;
+	overflow: visible;
+	width: 367px;
+	white-space: nowrap;
+	line-height: 27px;
+	margin-top: -5.5px;
+	text-align: left;
+	font-family: Raleway;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 16px;
+	color: rgba(0,0,0,1);
+	text-decoration: true;
+}
+.____Misbruik_Ritalin_Class {
+	position: absolute;
+	left: 0px;
+	top: 82px;
+	overflow: visible;
+	width: 130px;
+	white-space: nowrap;
+	line-height: 27px;
+	margin-top: -5.5px;
+	text-align: left;
+	font-family: Raleway;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 16px;
+	color: rgba(0,0,0,1);
+}
+.https___www_youtube_com_watch__jc_Class {
+	position: absolute;
+	left: 0px;
+	top: 54px;
+	overflow: visible;
+	width: 386px;
+	white-space: nowrap;
+	line-height: 27px;
+	margin-top: -5.5px;
+	text-align: left;
+	font-family: Raleway;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 16px;
+	color: rgba(0,0,0,1);
+	text-decoration: true;
+}
+.____Do_s_and_dont_s_Ritalin_Class {
+	position: absolute;
+	left: 0px;
+	top: 35px;
+	overflow: visible;
+	width: 180px;
+	white-space: nowrap;
+	line-height: 27px;
+	margin-top: -5.5px;
+	text-align: left;
+	font-family: Raleway;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 16px;
+	color: rgba(0,0,0,1);
+}
+.Video_s_Class {
+	position: absolute;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+	width: 65px;
+	white-space: nowrap;
+	line-height: 27px;
+	margin-top: -4px;
+	text-align: left;
+	font-family: Open Sans;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 19px;
+	color: rgba(0,0,0,1);
+}
+.Header_Class {
+	position: absolute;
+	width: 1200px;
+	height: 391px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+.Rectangle_116 {
+	position: absolute;
+	overflow: visible;
+	width: 1200px;
+	height: 38px;
+	left: 0px;
+	top: 59px;
+}
+.achtergrond_Class {
+	position: absolute;
+	width: 1170px;
+	height: 63px;
+	left: 15px;
+	top: 0px;
+	overflow: visible;
+}
+.Rectangle_16_je {
+	position: absolute;
+	overflow: visible;
+	width: 1170px;
+	height: 30px;
+	left: 0px;
+	top: 0px;
+}
+.Rectangle_15_jg {
+	position: absolute;
+	overflow: visible;
+	width: 1170px;
+	height: 63px;
+	left: 0px;
+	top: 0px;
+}
+.knoppen_Class {
+	position: absolute;
+	width: 1170px;
+	height: 124px;
+	left: 15px;
+	top: 267px;
+	overflow: visible;
+}
+.Group_50_Class {
+	position: absolute;
+	width: 95px;
+	height: 90px;
+	left: 755px;
+	top: 34px;
+	overflow: visible;
+}
+.Rectangle_56 {
+	filter: drop-shadow(3px 6px 6px rgba(0, 0, 0, 0.161));
+	position: absolute;
+	overflow: visible;
+	width: 113px;
+	height: 108px;
+	left: 0px;
+	top: 0px;
+}
+.Ontspannen_Class {
+	position: absolute;
+	left: 10px;
+	top: 67px;
+	overflow: visible;
+	width: 76px;
+	white-space: nowrap;
+	--web-animation: fadein 0.3s ease-out;
+	--web-action-type: page;
+	--web-action-target: ontspanning.html;
+	cursor: pointer;
+	line-height: 24px;
+	margin-top: -5.5px;
+	text-align: left;
+	font-family: Open Sans;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 13px;
+	color: rgba(0,0,0,1);
+}
+.Line_21 {
+	overflow: visible;
+	position: absolute;
+	width: 80px;
+	height: 1px;
+	left: 7.5px;
+	top: 62px;
+	transform: matrix(1,0,0,1,0,0);
+}
+.Studeren_Class {
+	position: absolute;
+	left: 10px;
+	top: 39px;
+	overflow: visible;
+	width: 57px;
+	white-space: nowrap;
+	--web-animation: fadein 0.3s ease-out;
+	--web-action-type: page;
+	--web-action-target: studeren.html;
+	cursor: pointer;
+	line-height: 24px;
+	margin-top: -5.5px;
+	text-align: left;
+	font-family: Open Sans;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 13px;
+	color: rgba(0,0,0,1);
+}
+.Line_17 {
+	overflow: visible;
+	position: absolute;
+	width: 80px;
+	height: 1px;
+	left: 7.5px;
+	top: 34px;
+	transform: matrix(1,0,0,1,0,0);
+}
+.Alternatief_Class {
+	position: absolute;
+	left: 10px;
+	top: 13px;
+	overflow: visible;
+	width: 65px;
+	white-space: nowrap;
+	--web-animation: fadein 0.3s ease-out;
+	--web-action-type: page;
+	--web-action-target: tips.html;
+	cursor: pointer;
+	line-height: 24px;
+	margin-top: -5.5px;
+	text-align: left;
+	font-family: Open Sans;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 13px;
+	color: rgba(0,0,0,1);
+}
+.Line_20 {
+	overflow: visible;
+	position: absolute;
+	width: 80px;
+	height: 1px;
+	left: 7.5px;
+	top: 8px;
+	transform: matrix(1,0,0,1,0,0);
+}
+.Rectangle_20 {
+	position: absolute;
+	overflow: visible;
+	width: 1170px;
+	height: 40px;
+	left: 0px;
+	top: 0px;
+}
+.Rectangle_22 {
+	position: absolute;
+	overflow: visible;
+	width: 1170px;
+	height: 20px;
+	left: 0px;
+	top: 0px;
+}
+.tips_Class {
+	position: absolute;
+	width: 30px;
+	height: 20px;
+	left: 766px;
+	top: 10px;
+	overflow: visible;
+}
+.TIPS_jt_Class {
+	position: absolute;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+	width: 31px;
+	white-space: nowrap;
+	line-height: 24px;
+	margin-top: -4.5px;
+	text-align: center;
+	font-family: Open Sans;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 15px;
+	color: rgba(0,0,0,1);
+}
+.risicos_Class {
+	position: absolute;
+	width: 58px;
+	height: 20px;
+	left: 688px;
+	top: 10px;
+	overflow: visible;
+	--web-animation: fadein 0.3s ease-out;
+	--web-action-type: page;
+	--web-action-target: media___r.html;
+	cursor: pointer;
+}
+.RISICO_S_Class {
+	position: absolute;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+	width: 59px;
+	white-space: nowrap;
+	line-height: 24px;
+	margin-top: -4.5px;
+	text-align: center;
+	font-family: Open Sans;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 15px;
+	color: rgba(0,0,0,1);
+}
+.verslaafd_Class {
+	position: absolute;
+	width: 80px;
+	height: 20px;
+	left: 588px;
+	top: 10px;
+	overflow: visible;
+	--web-animation: fadein 0.3s ease-out;
+	--web-action-type: page;
+	--web-action-target: verslaafd.html;
+	cursor: pointer;
+}
+.VERSLAAFD_jx_Class {
+	position: absolute;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+	width: 81px;
+	white-space: nowrap;
+	line-height: 24px;
+	margin-top: -4.5px;
+	text-align: center;
+	font-family: Open Sans;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 15px;
+	color: rgba(0,0,0,1);
+}
+.methylfenidaat_Class {
+	position: absolute;
+	width: 128px;
+	height: 20px;
+	left: 440px;
+	top: 10px;
+	overflow: visible;
+	--web-animation: fadein 0.3s ease-out;
+	--web-action-type: page;
+	--web-action-target: media___m.html;
+	cursor: pointer;
+}
+.METHYLFENIDAAT_jz_Class {
+	position: absolute;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+	width: 129px;
+	white-space: nowrap;
+	line-height: 24px;
+	margin-top: -4.5px;
+	text-align: center;
+	font-family: Open Sans;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 15px;
+	color: rgba(0,0,0,1);
+}
+.home_Class {
+	position: absolute;
+	width: 45px;
+	height: 20px;
+	left: 375px;
+	top: 10px;
+	overflow: visible;
+	--web-animation: fadein 0.3s ease-out;
+	--web-action-type: page;
+	--web-action-target: index.html;
+	cursor: pointer;
+}
+.HOME_j_Class {
+	position: absolute;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+	width: 46px;
+	white-space: nowrap;
+	line-height: 24px;
+	margin-top: -4.5px;
+	text-align: left;
+	font-family: Open Sans;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 15px;
+	color: rgba(0,0,0,1);
+}
+.zoekbalk_Class {
+	position: absolute;
+	width: 262px;
+	height: 34px;
+	left: 910px;
+	top: 14px;
+	overflow: visible;
+}
+.Rectangle_17 {
+	position: absolute;
+	overflow: visible;
+	width: 262px;
+	height: 34px;
+	left: 0px;
+	top: 0px;
+}
+.Zoek_op_trefwoord_Class {
+	position: absolute;
+	left: 8px;
+	top: 9px;
+	overflow: visible;
+	width: 122px;
+	white-space: nowrap;
+	line-height: 58px;
+	margin-top: -22px;
+	text-align: left;
+	font-family: Open Sans;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 14px;
+	color: rgba(0,0,0,1);
+}
+.glassmagnifiermagnifyingsearch_Class {
+	opacity: 0.35;
+	position: absolute;
+	width: 30px;
+	height: 30px;
+	left: 227px;
+	top: 2px;
+	overflow: visible;
+}
+.banner5_Class {
+	position: absolute;
+	width: 1170px;
+	height: 175px;
+	left: 15px;
+	top: 92px;
+	overflow: visible;
+}
+.Informatie_over_misbruik_methy_Class {
+	position: absolute;
+	left: 30px;
+	top: 63px;
+	overflow: visible;
+	width: 478px;
+	white-space: nowrap;
+	line-height: 58px;
+	margin-top: -16px;
+	text-align: left;
+	font-family: Raleway;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 26px;
+	color: rgba(0,0,0,1);
+}
+.ADHD_MEDICATIE_Class {
+	position: absolute;
+	left: 30px;
+	top: 11px;
+	overflow: visible;
+	width: 313px;
+	white-space: nowrap;
+	line-height: 58px;
+	margin-top: -11px;
+	text-align: left;
+	font-family: SansSerif;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 36px;
+	color: rgba(255,255,255,1);
+}

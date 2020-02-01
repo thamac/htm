@@ -1,21 +1,24 @@
 .mediaViewInfo {
 	--web-view-name: index;
 	--web-view-id: index;
-	--web-enable-scale-up: true;
 	--web-scale-on-resize: true;
+	--web-center-horizontally: true;
+	--web-navigate-on-keypress: true;
 	--web-enable-deep-linking: true;
 }
 :root {
 	--web-view-ids: index;
 }
 * {
-	max-width: 1200px;
-	margin: auto;
+	margin: 0;
+	padding: 0;
 	box-sizing: border-box;
 	border: none;
 }
 .index_Class {
 	position: absolute;
+	transform: translateX(-50%);
+	left: 50%;
 	background: #E5E5E5;
 	width: 1200px;
 	height: 1642px;
@@ -23,8 +26,9 @@
 	overflow: hidden;
 	--web-view-name: index;
 	--web-view-id: index;
-	--web-enable-scale-up: true;
 	--web-scale-on-resize: true;
+	--web-center-horizontally: true;
+	--web-navigate-on-keypress: true;
 	--web-enable-deep-linking: true;
 }
 @keyframes fadein {
@@ -61,7 +65,7 @@
 	left: 0px;
 	top: 0px;
 }
-.het_project_Class {
+.HET_PROJECT_Class {
 	position: absolute;
 	left: 715px;
 	top: 48px;
@@ -81,7 +85,7 @@
 	font-size: 20px;
 	color: rgba(44,111,170,1);
 }
-.media_Class {
+.MEDIA_Class {
 	position: absolute;
 	left: 358px;
 	top: 48px;
@@ -138,21 +142,29 @@
 }
 .Header_Class {
 	position: absolute;
-	width: 1170px;
+	width: 1200px;
 	height: 307px;
-	left: 15px;
+	left: 0px;
 	top: 0px;
 	overflow: visible;
+}
+.Rectangle_64 {
+	position: absolute;
+	overflow: visible;
+	width: 1200px;
+	height: 38px;
+	left: 0px;
+	top: 59px;
 }
 .achtergrond_Class {
 	position: absolute;
 	width: 1170px;
 	height: 63px;
-	left: 0px;
+	left: 15px;
 	top: 0px;
 	overflow: visible;
 }
-.Rectangle_16_ciz {
+.Rectangle_16_clx {
 	position: absolute;
 	overflow: visible;
 	width: 1170px;
@@ -160,7 +172,7 @@
 	left: 0px;
 	top: 0px;
 }
-.Rectangle_15_ci {
+.Rectangle_15_clz {
 	position: absolute;
 	overflow: visible;
 	width: 1170px;
@@ -172,7 +184,7 @@
 	position: absolute;
 	width: 1170px;
 	height: 40px;
-	left: 0px;
+	left: 15px;
 	top: 267px;
 	overflow: visible;
 }
@@ -204,7 +216,7 @@
 	--web-action-target: index___t.html;
 	cursor: pointer;
 }
-.TIPS_ci_Class {
+.TIPS_cl_Class {
 	position: absolute;
 	left: 0px;
 	top: 0px;
@@ -260,7 +272,7 @@
 	--web-action-target: verslaafd.html;
 	cursor: pointer;
 }
-.VERSLAAFD_cja_Class {
+.VERSLAAFD_cl_Class {
 	position: absolute;
 	left: 0px;
 	top: 0px;
@@ -288,7 +300,7 @@
 	--web-action-target: index___m.html;
 	cursor: pointer;
 }
-.METHYLFENIDAAT_cjc_Class {
+.METHYLFENIDAAT_cma_Class {
 	position: absolute;
 	left: 0px;
 	top: 0px;
@@ -320,7 +332,7 @@
 	left: 0px;
 	top: 25px;
 }
-.HOME_cjf_Class {
+.HOME_cmd_Class {
 	position: absolute;
 	left: 0px;
 	top: 0px;
@@ -340,7 +352,7 @@
 	position: absolute;
 	width: 262px;
 	height: 34px;
-	left: 895px;
+	left: 910px;
 	top: 14px;
 	overflow: visible;
 }
@@ -381,13 +393,13 @@
 	position: absolute;
 	width: 1170px;
 	height: 175px;
-	left: 0px;
+	left: 15px;
 	top: 92px;
 	overflow: visible;
 }
 .Informatie_over_misbruik_methy_Class {
 	position: absolute;
-	left: 15px;
+	left: 30px;
 	top: 63px;
 	overflow: visible;
 	width: 478px;
@@ -403,7 +415,7 @@
 }
 .ADHD_MEDICATIE_Class {
 	position: absolute;
-	left: 15px;
+	left: 30px;
 	top: 11px;
 	overflow: visible;
 	width: 313px;

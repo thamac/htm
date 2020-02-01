@@ -1,13 +1,13 @@
 .mediaViewInfo {
-	--web-view-name: index – m;
-	--web-view-id: index___m;
+	--web-view-name: media – m;
+	--web-view-id: media___m;
 	--web-scale-on-resize: true;
 	--web-center-horizontally: true;
 	--web-navigate-on-keypress: true;
 	--web-enable-deep-linking: true;
 }
 :root {
-	--web-view-ids: index___m;
+	--web-view-ids: media___m;
 }
 * {
 	margin: 0;
@@ -15,17 +15,17 @@
 	box-sizing: border-box;
 	border: none;
 }
-.index___m_Class {
+.media___m_Class {
 	position: absolute;
 	transform: translateX(-50%);
 	left: 50%;
 	background: #E5E5E5;
 	width: 1200px;
-	height: 1642px;
+	height: 1505px;
 	background-color: rgba(255,255,255,1);
 	overflow: hidden;
-	--web-view-name: index – m;
-	--web-view-id: index___m;
+	--web-view-name: media – m;
+	--web-view-id: media___m;
 	--web-scale-on-resize: true;
 	--web-center-horizontally: true;
 	--web-navigate-on-keypress: true;
@@ -46,7 +46,7 @@
 	width: 1170px;
 	height: 120px;
 	left: 15px;
-	top: 1522px;
+	top: 1385px;
 	overflow: visible;
 }
 .Rectangle_53 {
@@ -92,10 +92,6 @@
 	overflow: visible;
 	width: 63px;
 	white-space: nowrap;
-	--web-animation: fadein 0.3s ease-out;
-	--web-action-type: page;
-	--web-action-target: media.html;
-	cursor: pointer;
 	line-height: 27px;
 	margin-top: -3.5px;
 	text-align: center;
@@ -107,37 +103,433 @@
 }
 .Body_Class {
 	position: absolute;
-	width: 560px;
-	height: 1125px;
-	left: 320px;
+	width: 542px;
+	height: 952px;
+	left: 329px;
 	top: 352px;
 	overflow: visible;
 }
-.video_Class {
-	box-sizing: border-box;
-	margin: 0;
-	padding: 0;
+.Group_47_Class {
 	position: absolute;
-	width: 560px;
-	height: 315px;
+	width: 537px;
+	height: 246px;
 	left: 0px;
-	top: 810px;
+	top: 706px;
 	overflow: visible;
 }
-.Nog_even_een_goede_studeersess_Class {
+.____https___demonitor_kro_ncrv_Class {
 	position: absolute;
-	left: 8px;
+	left: 0px;
+	top: 200px;
+	overflow: visible;
+	width: 505px;
+	white-space: nowrap;
+	line-height: 27px;
+	margin-top: -5.5px;
+	text-align: left;
+	font-family: Raleway;
+	font-style: italic;
+	font-weight: normal;
+	font-size: 16px;
+	color: rgba(0,0,0,1);
+	text-decoration: true;
+}
+.____https___www_folia_nl_actue_Class {
+	position: absolute;
+	left: 0px;
+	top: 145px;
+	overflow: visible;
+	width: 473px;
+	white-space: nowrap;
+	line-height: 27px;
+	margin-top: -5.5px;
+	text-align: left;
+	font-family: Raleway;
+	font-style: italic;
+	font-weight: normal;
+	font-size: 16px;
+	color: rgba(0,0,0,1);
+	text-decoration: true;
+}
+.____https___www_vice_com_nl_ar_Class {
+	position: absolute;
+	left: 0px;
+	top: 90px;
+	overflow: visible;
+	width: 535px;
+	white-space: nowrap;
+	line-height: 27px;
+	margin-top: -5.5px;
+	text-align: left;
+	font-family: Raleway;
+	font-style: italic;
+	font-weight: normal;
+	font-size: 16px;
+	color: rgba(0,0,0,1);
+	text-decoration: true;
+}
+.____https___pers_bnnvara_nl_dr_Class {
+	position: absolute;
+	left: 0px;
+	top: 35px;
+	overflow: visible;
+	width: 538px;
+	white-space: nowrap;
+	line-height: 27px;
+	margin-top: -5.5px;
+	text-align: left;
+	font-family: Raleway;
+	font-style: italic;
+	font-weight: normal;
+	font-size: 16px;
+	color: rgba(0,0,0,1);
+	text-decoration: true;
+}
+.Overige_media_Class {
+	position: absolute;
+	left: 0px;
 	top: 0px;
 	overflow: visible;
-	width: 546px;
+	width: 134px;
+	white-space: nowrap;
+	line-height: 27px;
+	margin-top: -4px;
+	text-align: left;
+	font-family: Open Sans;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 19px;
+	color: rgba(0,0,0,1);
+}
+.Group_46_Class {
+	position: absolute;
+	width: 542px;
+	height: 328px;
+	left: 0px;
+	top: 343px;
+	overflow: visible;
+}
+.____https___www_parool_nl_colu_Class {
+	position: absolute;
+	left: 1px;
+	top: 282px;
+	overflow: visible;
+	width: 534px;
+	white-space: nowrap;
+	line-height: 27px;
+	margin-top: -5.5px;
+	text-align: left;
+	font-family: Raleway;
+	font-style: italic;
+	font-weight: normal;
+	font-size: 16px;
+	color: rgba(0,0,0,1);
+	text-decoration: true;
+}
+.____https___nos_nl_op3_artikel_Class {
+	position: absolute;
+	left: 0px;
+	top: 227px;
+	overflow: visible;
+	width: 531px;
+	white-space: nowrap;
+	line-height: 27px;
+	margin-top: -5.5px;
+	text-align: left;
+	font-family: Raleway;
+	font-style: italic;
+	font-weight: normal;
+	font-size: 16px;
+	color: rgba(0,0,0,1);
+	text-decoration: true;
+}
+.____https___www_trouw_nl_nieuw_Class {
+	position: absolute;
+	left: 1px;
+	top: 172px;
+	overflow: visible;
+	width: 542px;
+	white-space: nowrap;
+	line-height: 27px;
+	margin-top: -5.5px;
+	text-align: left;
+	font-family: Raleway;
+	font-style: italic;
+	font-weight: normal;
+	font-size: 16px;
+	color: rgba(0,0,0,1);
+	text-decoration: true;
+}
+.____https___nos_nl_op3_artikel_mp_Class {
+	position: absolute;
+	left: 0px;
+	top: 117px;
+	overflow: visible;
+	width: 523px;
+	white-space: nowrap;
+	line-height: 27px;
+	margin-top: -5.5px;
+	text-align: left;
+	font-family: Raleway;
+	font-style: italic;
+	font-weight: normal;
+	font-size: 16px;
+	color: rgba(0,0,0,1);
+	text-decoration: true;
+}
+.____https___www_volkskrant_nl__Class {
+	position: absolute;
+	left: 1px;
+	top: 35px;
+	overflow: visible;
+	width: 541px;
+	white-space: nowrap;
+	line-height: 27px;
+	margin-top: -5.5px;
+	text-align: left;
+	font-family: Raleway;
+	font-style: italic;
+	font-weight: normal;
+	font-size: 16px;
+	color: rgba(0,0,0,1);
+	text-decoration: true;
+}
+.Krant__nieuws_Class {
+	position: absolute;
+	left: 1px;
+	top: 0px;
+	overflow: visible;
+	width: 129px;
+	white-space: nowrap;
+	line-height: 27px;
+	margin-top: -4px;
+	text-align: left;
+	font-family: Open Sans;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 19px;
+	color: rgba(0,0,0,1);
+}
+.Group_45_Class {
+	position: absolute;
+	width: 508px;
+	height: 308px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+.https___www_npostart_nl_3lab_2_Class {
+	position: absolute;
+	left: 0px;
+	top: 289px;
+	overflow: visible;
+	width: 448px;
 	white-space: nowrap;
 	line-height: 27px;
 	margin-top: -5.5px;
 	text-align: left;
 	font-family: Raleway;
 	font-style: normal;
-	font-weight: bold;
+	font-weight: normal;
 	font-size: 16px;
+	color: rgba(0,0,0,1);
+	text-decoration: true;
+}
+.____Onder_druk_Class {
+	position: absolute;
+	left: 0px;
+	top: 270px;
+	overflow: visible;
+	width: 102px;
+	white-space: nowrap;
+	line-height: 27px;
+	margin-top: -5.5px;
+	text-align: left;
+	font-family: Raleway;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 16px;
+	color: rgba(0,0,0,1);
+}
+.https___www_youtube_com_watch__Class {
+	position: absolute;
+	left: 0px;
+	top: 242px;
+	overflow: visible;
+	width: 380px;
+	white-space: nowrap;
+	line-height: 27px;
+	margin-top: -5.5px;
+	text-align: left;
+	font-family: Raleway;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 16px;
+	color: rgba(0,0,0,1);
+	text-decoration: true;
+}
+.____Trailer__take_your_pills___Class {
+	position: absolute;
+	left: 0px;
+	top: 223px;
+	overflow: visible;
+	width: 482px;
+	white-space: nowrap;
+	line-height: 27px;
+	margin-top: -5.5px;
+	text-align: left;
+	font-family: Raleway;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 16px;
+	color: rgba(0,0,0,1);
+}
+.https___www_youtube_com_watch__mx_Class {
+	position: absolute;
+	left: 0px;
+	top: 195px;
+	overflow: visible;
+	width: 509px;
+	white-space: nowrap;
+	line-height: 27px;
+	margin-top: -5.5px;
+	text-align: left;
+	font-family: Raleway;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 16px;
+	color: rgba(0,0,0,1);
+	text-decoration: true;
+}
+.____De_waarheid_over_ADHD__voo_Class {
+	position: absolute;
+	left: 0px;
+	top: 176px;
+	overflow: visible;
+	width: 424px;
+	white-space: nowrap;
+	line-height: 27px;
+	margin-top: -5.5px;
+	text-align: left;
+	font-family: Raleway;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 16px;
+	color: rgba(0,0,0,1);
+}
+.https___www_youtube_com_watch__mz_Class {
+	position: absolute;
+	left: 0px;
+	top: 148px;
+	overflow: visible;
+	width: 372px;
+	white-space: nowrap;
+	line-height: 27px;
+	margin-top: -5.5px;
+	text-align: left;
+	font-family: Raleway;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 16px;
+	color: rgba(0,0,0,1);
+	text-decoration: true;
+}
+.____Spuiten_en_Slikken_aflever_Class {
+	position: absolute;
+	left: 0px;
+	top: 129px;
+	overflow: visible;
+	width: 318px;
+	white-space: nowrap;
+	line-height: 27px;
+	margin-top: -5.5px;
+	text-align: left;
+	font-family: Raleway;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 16px;
+	color: rgba(0,0,0,1);
+}
+.https___www_youtube_com_watch__m_Class {
+	position: absolute;
+	left: 0px;
+	top: 101px;
+	overflow: visible;
+	width: 367px;
+	white-space: nowrap;
+	line-height: 27px;
+	margin-top: -5.5px;
+	text-align: left;
+	font-family: Raleway;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 16px;
+	color: rgba(0,0,0,1);
+	text-decoration: true;
+}
+.____Misbruik_Ritalin_Class {
+	position: absolute;
+	left: 0px;
+	top: 82px;
+	overflow: visible;
+	width: 130px;
+	white-space: nowrap;
+	line-height: 27px;
+	margin-top: -5.5px;
+	text-align: left;
+	font-family: Raleway;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 16px;
+	color: rgba(0,0,0,1);
+}
+.https___www_youtube_com_watch__na_Class {
+	position: absolute;
+	left: 0px;
+	top: 54px;
+	overflow: visible;
+	width: 386px;
+	white-space: nowrap;
+	line-height: 27px;
+	margin-top: -5.5px;
+	text-align: left;
+	font-family: Raleway;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 16px;
+	color: rgba(0,0,0,1);
+	text-decoration: true;
+}
+.____Do_s_and_dont_s_Ritalin_Class {
+	position: absolute;
+	left: 0px;
+	top: 35px;
+	overflow: visible;
+	width: 180px;
+	white-space: nowrap;
+	line-height: 27px;
+	margin-top: -5.5px;
+	text-align: left;
+	font-family: Raleway;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 16px;
+	color: rgba(0,0,0,1);
+}
+.Video_s_Class {
+	position: absolute;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+	width: 65px;
+	white-space: nowrap;
+	line-height: 27px;
+	margin-top: -4px;
+	text-align: left;
+	font-family: Open Sans;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 19px;
 	color: rgba(0,0,0,1);
 }
 .Header_Class {
@@ -148,7 +540,7 @@
 	top: 0px;
 	overflow: visible;
 }
-.Rectangle_65 {
+.Rectangle_114 {
 	position: absolute;
 	overflow: visible;
 	width: 1200px;
@@ -164,7 +556,7 @@
 	top: 0px;
 	overflow: visible;
 }
-.Rectangle_16_ckl {
+.Rectangle_16_na {
 	position: absolute;
 	overflow: visible;
 	width: 1170px;
@@ -172,7 +564,7 @@
 	left: 0px;
 	top: 0px;
 }
-.Rectangle_15_ckn {
+.Rectangle_15_nc {
 	position: absolute;
 	overflow: visible;
 	width: 1170px;
@@ -188,23 +580,7 @@
 	top: 267px;
 	overflow: visible;
 }
-.Rectangle_20 {
-	position: absolute;
-	overflow: visible;
-	width: 1170px;
-	height: 40px;
-	left: 0px;
-	top: 0px;
-}
-.Rectangle_22 {
-	position: absolute;
-	overflow: visible;
-	width: 1170px;
-	height: 20px;
-	left: 0px;
-	top: 0px;
-}
-.Group_2_Class {
+.Group_48_Class {
 	position: absolute;
 	width: 112px;
 	height: 114px;
@@ -337,6 +713,22 @@
 	top: 8px;
 	transform: matrix(1,0,0,1,0,0);
 }
+.Rectangle_20 {
+	position: absolute;
+	overflow: visible;
+	width: 1170px;
+	height: 40px;
+	left: 0px;
+	top: 0px;
+}
+.Rectangle_22 {
+	position: absolute;
+	overflow: visible;
+	width: 1170px;
+	height: 20px;
+	left: 0px;
+	top: 0px;
+}
 .tips_Class {
 	position: absolute;
 	width: 30px;
@@ -346,10 +738,10 @@
 	overflow: visible;
 	--web-animation: fadein 0.3s ease-out;
 	--web-action-type: page;
-	--web-action-target: index___t.html;
+	--web-action-target: media___t.html;
 	cursor: pointer;
 }
-.TIPS_ck_Class {
+.TIPS_nr_Class {
 	position: absolute;
 	left: 0px;
 	top: 0px;
@@ -374,7 +766,7 @@
 	overflow: visible;
 	--web-animation: fadein 0.3s ease-out;
 	--web-action-type: page;
-	--web-action-target: index___r.html;
+	--web-action-target: media___r.html;
 	cursor: pointer;
 }
 .RISICO_S_Class {
@@ -405,7 +797,7 @@
 	--web-action-target: verslaafd.html;
 	cursor: pointer;
 }
-.VERSLAAFD_ck_Class {
+.VERSLAAFD_nv_Class {
 	position: absolute;
 	left: 0px;
 	top: 0px;
@@ -429,7 +821,7 @@
 	top: 10px;
 	overflow: visible;
 }
-.METHYLFENIDAAT_ck_Class {
+.METHYLFENIDAAT_nx_Class {
 	position: absolute;
 	left: 0px;
 	top: 0px;
@@ -448,7 +840,7 @@
 .home_Class {
 	position: absolute;
 	width: 45px;
-	height: 30px;
+	height: 20px;
 	left: 375px;
 	top: 10px;
 	overflow: visible;
@@ -457,15 +849,7 @@
 	--web-action-target: index.html;
 	cursor: pointer;
 }
-.Rectangle_24 {
-	position: absolute;
-	overflow: visible;
-	width: 45px;
-	height: 5px;
-	left: 0px;
-	top: 25px;
-}
-.HOME_clb_Class {
+.HOME_nz_Class {
 	position: absolute;
 	left: 0px;
 	top: 0px;

@@ -2,27 +2,33 @@
 	--web-view-name: index – r;
 	--web-view-id: index___r;
 	--web-scale-on-resize: true;
+	--web-center-horizontally: true;
+	--web-navigate-on-keypress: true;
 	--web-enable-deep-linking: true;
 }
 :root {
 	--web-view-ids: index___r;
 }
 * {
-	max-width: 1200px;
-	margin: auto;
+	margin: 0;
+	padding: 0;
 	box-sizing: border-box;
 	border: none;
 }
 .index___r_Class {
 	position: absolute;
+	transform: translateX(-50%);
+	left: 50%;
 	background: #E5E5E5;
 	width: 1200px;
-	height: 1080px;
+	height: 1642px;
 	background-color: rgba(255,255,255,1);
 	overflow: hidden;
 	--web-view-name: index – r;
 	--web-view-id: index___r;
 	--web-scale-on-resize: true;
+	--web-center-horizontally: true;
+	--web-navigate-on-keypress: true;
 	--web-enable-deep-linking: true;
 }
 @keyframes fadein {
@@ -35,36 +41,12 @@
 	}
 
 }
-.Body_Class {
-	position: absolute;
-	width: 545px;
-	height: 802px;
-	left: 327.738px;
-	top: 352px;
-	overflow: visible;
-}
-.Nog_even_een_goede_studeersess_Class {
-	position: absolute;
-	left: 0px;
-	top: 0px;
-	overflow: visible;
-	width: 546px;
-	white-space: nowrap;
-	line-height: 27px;
-	margin-top: -5.5px;
-	text-align: left;
-	font-family: Raleway;
-	font-style: normal;
-	font-weight: bold;
-	font-size: 16px;
-	color: rgba(0,0,0,1);
-}
 .Footer_Class {
 	position: absolute;
 	width: 1170px;
 	height: 120px;
 	left: 15px;
-	top: 960px;
+	top: 1522px;
 	overflow: visible;
 }
 .Rectangle_53 {
@@ -83,7 +65,7 @@
 	left: 0px;
 	top: 0px;
 }
-.het_project_Class {
+.HET_PROJECT_Class {
 	position: absolute;
 	left: 715px;
 	top: 48px;
@@ -103,7 +85,7 @@
 	font-size: 20px;
 	color: rgba(44,111,170,1);
 }
-.media_Class {
+.MEDIA_Class {
 	position: absolute;
 	left: 358px;
 	top: 48px;
@@ -123,23 +105,66 @@
 	font-size: 20px;
 	color: rgba(44,111,170,1);
 }
-.Header_Class {
+.Body_Class {
 	position: absolute;
-	width: 1170px;
-	height: 391px;
-	left: 15px;
+	width: 560px;
+	height: 1125px;
+	left: 320px;
+	top: 352px;
+	overflow: visible;
+}
+.video_Class {
+	box-sizing: border-box;
+	margin: 0;
+	padding: 0;
+	position: absolute;
+	width: 560px;
+	height: 315px;
+	left: 0px;
+	top: 810px;
+	overflow: visible;
+}
+.Nog_even_een_goede_studeersess_Class {
+	position: absolute;
+	left: 8px;
 	top: 0px;
 	overflow: visible;
+	width: 546px;
+	white-space: nowrap;
+	line-height: 27px;
+	margin-top: -5.5px;
+	text-align: left;
+	font-family: Raleway;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 16px;
+	color: rgba(0,0,0,1);
+}
+.Header_Class {
+	position: absolute;
+	width: 1200px;
+	height: 391px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+.Rectangle_66 {
+	position: absolute;
+	overflow: visible;
+	width: 1200px;
+	height: 38px;
+	left: 0px;
+	top: 59px;
 }
 .achtergrond_Class {
 	position: absolute;
 	width: 1170px;
 	height: 63px;
-	left: 0px;
+	left: 15px;
 	top: 0px;
 	overflow: visible;
 }
-.Rectangle_16_cgg {
+.Rectangle_16_cjb {
 	position: absolute;
 	overflow: visible;
 	width: 1170px;
@@ -147,7 +172,7 @@
 	left: 0px;
 	top: 0px;
 }
-.Rectangle_15_cgi {
+.Rectangle_15_cjd {
 	position: absolute;
 	overflow: visible;
 	width: 1170px;
@@ -159,7 +184,7 @@
 	position: absolute;
 	width: 1170px;
 	height: 124px;
-	left: 0px;
+	left: 15px;
 	top: 267px;
 	overflow: visible;
 }
@@ -295,7 +320,7 @@
 	--web-action-target: index___t.html;
 	cursor: pointer;
 }
-.TIPS_cgv_Class {
+.TIPS_cjq_Class {
 	position: absolute;
 	left: 0px;
 	top: 0px;
@@ -347,7 +372,7 @@
 	--web-action-target: verslaafd.html;
 	cursor: pointer;
 }
-.VERSLAAFD_cgz_Class {
+.VERSLAAFD_cju_Class {
 	position: absolute;
 	left: 0px;
 	top: 0px;
@@ -375,7 +400,7 @@
 	--web-action-target: index___m.html;
 	cursor: pointer;
 }
-.METHYLFENIDAAT_cg_Class {
+.METHYLFENIDAAT_cjw_Class {
 	position: absolute;
 	left: 0px;
 	top: 0px;
@@ -411,7 +436,7 @@
 	left: 0px;
 	top: 25px;
 }
-.HOME_cg_Class {
+.HOME_cjz_Class {
 	position: absolute;
 	left: 0px;
 	top: 0px;
@@ -431,7 +456,7 @@
 	position: absolute;
 	width: 262px;
 	height: 34px;
-	left: 895px;
+	left: 910px;
 	top: 14px;
 	overflow: visible;
 }
@@ -472,13 +497,13 @@
 	position: absolute;
 	width: 1170px;
 	height: 175px;
-	left: 0px;
+	left: 15px;
 	top: 92px;
 	overflow: visible;
 }
 .Informatie_over_misbruik_methy_Class {
 	position: absolute;
-	left: 15px;
+	left: 30px;
 	top: 63px;
 	overflow: visible;
 	width: 478px;
@@ -494,7 +519,7 @@
 }
 .ADHD_MEDICATIE_Class {
 	position: absolute;
-	left: 15px;
+	left: 30px;
 	top: 11px;
 	overflow: visible;
 	width: 313px;
